@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.9 °C</td><td>13.6 °C</td><td>13.2 °C</td><td>12.9 °C</td><td>12.6 °C</td><td>12.2 °C</td><td>12.3 °C</td><td>13.8 °C</td><td>15.4 °C</td><td>17.2 °C</td><td>19.3 °C</td><td>21 °C</td><td>22.3 °C</td><td>23 °C</td><td>23 °C</td><td>22.9 °C</td><td>22.5 °C</td><td>21.2 °C</td><td>20.1 °C</td><td>18.9 °C</td><td>17.7 °C</td><td>17 °C</td><td>16.5 °C</td><td>16 °C</td>
+        <td>13.9 °C</td><td>13.6 °C</td><td>13.2 °C</td><td>12.9 °C</td><td>12.6 °C</td><td>12.2 °C</td><td>12.3 °C</td><td>13.8 °C</td><td>15.4 °C</td><td>17.2 °C</td><td>19.3 °C</td><td>21 °C</td><td>22.3 °C</td><td>23 °C</td><td>23.1 °C</td><td>23 °C</td><td>22.5 °C</td><td>21.2 °C</td><td>20.1 °C</td><td>18.9 °C</td><td>17.7 °C</td><td>17 °C</td><td>16.5 °C</td><td>16 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>14 kph</td><td>16.2 kph</td><td>16.9 kph</td><td>18.4 kph</td><td>18.7 kph</td><td>18 kph</td><td>17.3 kph</td><td>13.7 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.6 kph</td>
+        <td>8.3 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>14 kph</td><td>16.2 kph</td><td>19.1 kph</td><td>16.9 kph</td><td>18.7 kph</td><td>18 kph</td><td>17.3 kph</td><td>13.7 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
@@ -44,21 +44,21 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Heavy rain</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Moderate rain</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Moderate rain</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>12.2 -  23.1 °C</td><td>13.7 -  21.5 °C</td><td>11.7 -  22.4 °C</td><td>12.7 -  22 °C</td><td>13.1 -  23.2 °C</td><td>14.5 -  21.2 °C</td><td>12.5 -  22.3 °C</td>
+        <td>12.2 -  23.2 °C</td><td>13.2 -  21.5 °C</td><td>11.2 -  22.4 °C</td><td>11.8 -  23.2 °C</td><td>13.1 -  23.1 °C</td><td>13.9 -  18.8 °C</td><td>11.3 -  21.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>19.1 kph</td><td>29.9 kph</td><td>16.9 kph</td><td>21.2 kph</td><td>20.9 kph</td><td>29.2 kph</td><td>21.2 kph</td>
+        <td>19.4 kph</td><td>29.5 kph</td><td>19.1 kph</td><td>22.7 kph</td><td>20.9 kph</td><td>20.9 kph</td><td>24.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-05-10T05:29:02Z*
+*Updated at: 2024-05-10T06:33:14Z*
