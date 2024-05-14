@@ -21,15 +21,15 @@ Sunny
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15.9 °C</td><td>15.3 °C</td><td>14.8 °C</td><td>14.4 °C</td><td>14 °C</td><td>13.7 °C</td><td>13.7 °C</td><td>15.5 °C</td><td>17.6 °C</td><td>19.4 °C</td><td>21.1 °C</td><td>22.5 °C</td><td>23.5 °C</td><td>24 °C</td><td>24.1 °C</td><td>24 °C</td><td>23.4 °C</td><td>22.4 °C</td><td>21.4 °C</td><td>19.9 °C</td><td>17 °C</td><td>17.8 °C</td><td>17.1 °C</td><td>16.5 °C</td>
+        <td>15.9 °C</td><td>15.3 °C</td><td>14.8 °C</td><td>14.4 °C</td><td>14 °C</td><td>13.7 °C</td><td>13.7 °C</td><td>15.5 °C</td><td>17.6 °C</td><td>19.4 °C</td><td>21.1 °C</td><td>22.5 °C</td><td>23.5 °C</td><td>24 °C</td><td>24.1 °C</td><td>24 °C</td><td>23.4 °C</td><td>22.4 °C</td><td>21.4 °C</td><td>19.9 °C</td><td>18.5 °C</td><td>17 °C</td><td>17.1 °C</td><td>16.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>4 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>9.4 kph</td><td>11.9 kph</td><td>14.8 kph</td><td>16.6 kph</td><td>16.9 kph</td><td>17.3 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>14.4 kph</td><td>11.2 kph</td><td>4 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>5 kph</td>
+        <td>4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>4 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>9.4 kph</td><td>11.9 kph</td><td>14.8 kph</td><td>16.6 kph</td><td>16.9 kph</td><td>17.3 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>14.4 kph</td><td>11.2 kph</td><td>7.6 kph</td><td>4 kph</td><td>4.7 kph</td><td>5 kph</td>
     </tr>
 </table>
 
@@ -52,13 +52,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.7 -  24.1 °C</td><td>6.7 -  18.7 °C</td><td>7 -  19.5 °C</td><td>10.5 -  24.5 °C</td><td>13.8 -  24.5 °C</td><td>15.2 -  28.6 °C</td><td>16.7 -  30.2 °C</td>
+        <td>13.7 -  24.2 °C</td><td>6.8 -  19.8 °C</td><td>7 -  18.5 °C</td><td>10.6 -  24.3 °C</td><td>13.7 -  24.7 °C</td><td>14.6 -  28.8 °C</td><td>17 -  30.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>17.6 kph</td><td>19.8 kph</td><td>16.6 kph</td><td>20.2 kph</td><td>19.8 kph</td><td>14 kph</td><td>14 kph</td>
+        <td>17.6 kph</td><td>23.4 kph</td><td>18 kph</td><td>20.5 kph</td><td>18.4 kph</td><td>15.1 kph</td><td>14.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-05-14T11:20:38Z*
+*Updated at: 2024-05-14T12:42:42Z*
