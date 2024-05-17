@@ -1,4 +1,4 @@
-## Today's Weather
+## 오늘의 날씨!!
 <div align="center">
 
 `Seoul, South Korea - 17/05/2024`
@@ -30,11 +30,7 @@ Sunny
     <tr>
         <th>Wind</th>
         <td>6.1 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>8.3 kph</td><td>10.4 kph</td><td>13.7 kph</td><td>14.4 kph</td><td>16.6 kph</td><td>16.6 kph</td><td>17.3 kph</td><td>15.1 kph</td><td>13.3 kph</td><td>9.7 kph</td><td>7.2 kph</td><td>5 kph</td><td>5.4 kph</td><td>4 kph</td>
-    </tr>
-</table>
-
-
-## Weather For Next 7 days
+  씨
 
 
 <table>
