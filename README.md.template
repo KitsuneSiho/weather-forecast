@@ -1,4 +1,4 @@
-## Today's Weather
+## 오늘의 날씨
 <div align="center">
 
 `{{ $.TodayWeather.City }}, {{$.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}`
@@ -11,7 +11,7 @@
 
 {{template "hourly-table" $.TodayWeather.HourlyWeathers}}
 
-## Weather For Next {{ len .Weathers }} days
+## 다음 {{ len .Weathers }} 일간의 날씨
 
 {{template "daily-table" .Weathers}}
 
