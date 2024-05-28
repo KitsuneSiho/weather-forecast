@@ -1,4 +1,4 @@
-## Today's Weather
+## 오늘의 날씨
 <div align="center">
 {{ with $todayWeather := index .Weathers 0 }}
 
@@ -14,7 +14,7 @@
 
 {{- end }}
 
-## Weather For Next {{ len .Weathers }} days
+## 다음 {{ len .Weathers }} 일간의 날씨
 
 {{template "daily-table" .Weathers}}
 
