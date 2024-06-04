@@ -1,7 +1,7 @@
 ## 오늘의 날씨
 <div align="center">
 
-`Seoul, South Korea - 04/06/2024`
+`Seoul, South Korea - 05/06/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -21,15 +21,15 @@ Sunny
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td>
+        <td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>18.6 °C</td><td>17.8 °C</td><td>17.1 °C</td><td>16.6 °C</td><td>16 °C</td><td>15.6 °C</td><td>15.7 °C</td><td>17.6 °C</td><td>19.6 °C</td><td>21.7 °C</td><td>23.7 °C</td><td>25.6 °C</td><td>27.2 °C</td><td>28.1 °C</td><td>28.6 °C</td><td>28.8 °C</td><td>28.5 °C</td><td>27.8 °C</td><td>27.3 °C</td><td>26.1 °C</td><td>24 °C</td><td>22.8 °C</td><td>22 °C</td><td>18 °C</td>
+        <td>20.9 °C</td><td>17 °C</td><td>19.9 °C</td><td>19.5 °C</td><td>18.9 °C</td><td>18.5 °C</td><td>18.7 °C</td><td>20.4 °C</td><td>22.1 °C</td><td>23.8 °C</td><td>25.7 °C</td><td>27.6 °C</td><td>28.7 °C</td><td>29.8 °C</td><td>30.2 °C</td><td>30 °C</td><td>29 °C</td><td>27.5 °C</td><td>26.4 °C</td><td>25.1 °C</td><td>23.8 °C</td><td>23 °C</td><td>22.5 °C</td><td>21.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>4 kph</td><td>4 kph</td><td>5.4 kph</td><td>7.2 kph</td><td>10.1 kph</td><td>12.2 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>6.1 kph</td><td>4 kph</td>
+        <td>1.8 kph</td><td>4 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>13 kph</td><td>16.2 kph</td><td>16.9 kph</td><td>14.4 kph</td><td>10.8 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>5.4 kph</td>
     </tr>
 </table>
 
@@ -40,25 +40,25 @@ Sunny
 <table>
     <tr>
         <th>Date</th>
-        <td>04/06/2024</td><td>05/06/2024</td><td>06/06/2024</td><td>07/06/2024</td><td>08/06/2024</td><td>09/06/2024</td><td>10/06/2024</td>
+        <td>05/06/2024</td><td>06/06/2024</td><td>07/06/2024</td><td>08/06/2024</td><td>09/06/2024</td><td>10/06/2024</td><td>11/06/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15.6 -  28.8 °C</td><td>18.5 -  30.2 °C</td><td>19.2 -  30.5 °C</td><td>18.4 -  29.5 °C</td><td>17.6 -  26.3 °C</td><td>18.1 -  27.8 °C</td><td>20.1 -  28.2 °C</td>
+        <td>18.5 -  30.2 °C</td><td>19.2 -  30.5 °C</td><td>18.4 -  29.5 °C</td><td>17.6 -  26.3 °C</td><td>18.1 -  27.8 °C</td><td>20.1 -  28.2 °C</td><td>19.8 -  26.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.3 kph</td><td>16.9 kph</td><td>18.7 kph</td><td>19.4 kph</td><td>21.6 kph</td><td>12.2 kph</td><td>14 kph</td>
+        <td>16.9 kph</td><td>18.7 kph</td><td>19.4 kph</td><td>21.6 kph</td><td>12.2 kph</td><td>14 kph</td><td>17.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-06-04T14:27:04Z*
+*Updated at: 2024-06-04T15:25:59Z*
