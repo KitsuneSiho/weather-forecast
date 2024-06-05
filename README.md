@@ -3,9 +3,9 @@
 
 `Seoul, South Korea - 06/06/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Patchy rain nearby
+Sunny
 
 </div>
 
@@ -25,11 +25,11 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22 °C</td><td>21.3 °C</td><td>20.5 °C</td><td>20 °C</td><td>19.9 °C</td><td>19.6 °C</td><td>19.9 °C</td><td>20 °C</td><td>22 °C</td><td>23.5 °C</td><td>25.6 °C</td><td>27.2 °C</td><td>28.6 °C</td><td>29.8 °C</td><td>30.3 °C</td><td>30.2 °C</td><td>29.3 °C</td><td>27 °C</td><td>25.6 °C</td><td>23.6 °C</td><td>22.3 °C</td><td>22.1 °C</td><td>21.9 °C</td><td>21.4 °C</td>
+        <td>22 °C</td><td>21.3 °C</td><td>20.5 °C</td><td>20 °C</td><td>19.9 °C</td><td>19.6 °C</td><td>19.9 °C</td><td>21 °C</td><td>23 °C</td><td>23.5 °C</td><td>25.6 °C</td><td>27.2 °C</td><td>28.6 °C</td><td>29.8 °C</td><td>30.3 °C</td><td>30.2 °C</td><td>29.3 °C</td><td>27 °C</td><td>25.6 °C</td><td>23.6 °C</td><td>22.3 °C</td><td>22.1 °C</td><td>21.9 °C</td><td>21.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.4 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>4 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>5 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>5 kph</td><td>5 kph</td><td>6.8 kph</td><td>11.5 kph</td><td>19.8 kph</td><td>16.9 kph</td><td>13.3 kph</td><td>6.8 kph</td><td>1.4 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>7.2 kph</td>
+        <td>5.4 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>4 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>5 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>5 kph</td><td>5 kph</td><td>6.8 kph</td><td>11.5 kph</td><td>19.8 kph</td><td>16.9 kph</td><td>13.3 kph</td><td>6.8 kph</td><td>1.4 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>7.2 kph</td>
     </tr>
 </table>
 
@@ -44,21 +44,21 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19.6 -  30.3 °C</td><td>18.6 -  27.1 °C</td><td>18.1 -  23.6 °C</td><td>17.2 -  28.1 °C</td><td>19.2 -  30.4 °C</td><td>20.5 -  31.9 °C</td><td>20.7 -  32.3 °C</td>
+        <td>19.7 -  30.1 °C</td><td>18.5 -  28.5 °C</td><td>17.8 -  19.9 °C</td><td>17.5 -  30.3 °C</td><td>19.1 -  29.1 °C</td><td>19.7 -  29.5 °C</td><td>20.1 -  31.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>19.8 kph</td><td>16.6 kph</td><td>9 kph</td><td>15.8 kph</td><td>15.8 kph</td><td>17.3 kph</td><td>16.2 kph</td>
+        <td>17.3 kph</td><td>18 kph</td><td>6.8 kph</td><td>18 kph</td><td>17.3 kph</td><td>16.6 kph</td><td>16.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-06-05T22:27:30Z*
+*Updated at: 2024-06-05T23:24:42Z*
