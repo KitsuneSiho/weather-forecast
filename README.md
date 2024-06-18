@@ -29,7 +29,7 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>4.3 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>4 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>9.4 kph</td><td>12.6 kph</td><td>15.1 kph</td><td>15.5 kph</td><td>13.3 kph</td><td>10.1 kph</td><td>5 kph</td><td>4 kph</td><td>3.2 kph</td><td>2.9 kph</td>
+        <td>6.1 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>4 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>9.4 kph</td><td>12.6 kph</td><td>15.1 kph</td><td>15.5 kph</td><td>13.3 kph</td><td>10.1 kph</td><td>5 kph</td><td>4 kph</td><td>3.2 kph</td><td>2.9 kph</td>
     </tr>
 </table>
 
@@ -52,13 +52,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.1 -  35.4 °C</td><td>23 -  35.4 °C</td><td>22.5 -  32.6 °C</td>
+        <td>21.1 -  35.3 °C</td><td>22.7 -  34.2 °C</td><td>21.8 -  31.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.5 kph</td><td>18.7 kph</td><td>14.8 kph</td>
+        <td>18 kph</td><td>21.2 kph</td><td>15.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-06-18T16:31:03Z*
+*Updated at: 2024-06-18T17:28:54Z*
