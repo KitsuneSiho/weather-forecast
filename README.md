@@ -17,19 +17,19 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.8 °C</td><td>22.4 °C</td><td>21.9 °C</td><td>21.6 °C</td><td>21.3 °C</td><td>20.9 °C</td><td>21.1 °C</td><td>22.9 °C</td><td>24.5 °C</td><td>26.3 °C</td><td>28.1 °C</td><td>29.4 °C</td><td>30.3 °C</td><td>30.2 °C</td><td>30.1 °C</td><td>30.1 °C</td><td>30.5 °C</td><td>29.7 °C</td><td>29 °C</td><td>28.1 °C</td><td>26.1 °C</td><td>25.1 °C</td><td>24.4 °C</td><td>23.9 °C</td>
+        <td>22.8 °C</td><td>22.4 °C</td><td>21.9 °C</td><td>21.6 °C</td><td>21.3 °C</td><td>20.9 °C</td><td>21.1 °C</td><td>22.9 °C</td><td>24.5 °C</td><td>26.3 °C</td><td>28.1 °C</td><td>29.4 °C</td><td>30.5 °C</td><td>30.4 °C</td><td>30.3 °C</td><td>30.3 °C</td><td>30.4 °C</td><td>29.9 °C</td><td>29.4 °C</td><td>28.7 °C</td><td>26.4 °C</td><td>25.4 °C</td><td>24.8 °C</td><td>24.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.9 kph</td><td>2.2 kph</td><td>0.7 kph</td><td>0.7 kph</td><td>0.4 kph</td><td>3.2 kph</td><td>1.4 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>0.7 kph</td><td>0.7 kph</td><td>0.7 kph</td><td>4.7 kph</td><td>5 kph</td><td>6.1 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>13 kph</td><td>4.7 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.2 kph</td>
+        <td>2.9 kph</td><td>2.2 kph</td><td>0.7 kph</td><td>0.7 kph</td><td>0.4 kph</td><td>3.2 kph</td><td>1.4 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>0.7 kph</td><td>0.7 kph</td><td>1.1 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>9 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>2.2 kph</td>
     </tr>
 </table>
 
@@ -52,13 +52,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.9 -  30.5 °C</td><td>21.1 -  31.6 °C</td><td>22.1 -  30.5 °C</td>
+        <td>20.9 -  30.5 °C</td><td>21.4 -  32.7 °C</td><td>21.4 -  32.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>14.4 kph</td><td>14.8 kph</td>
+        <td>8.3 kph</td><td>18.7 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-06-27T10:31:29Z*
+*Updated at: 2024-06-27T11:20:50Z*
