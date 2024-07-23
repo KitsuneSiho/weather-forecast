@@ -3,9 +3,9 @@
 
 `Seoul, South Korea - 23/07/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
 
-Moderate rain
+Heavy rain
 
 </div>
 
@@ -44,21 +44,21 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
+        <td width="200px">Heavy rain</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.2 -  27.1 °C</td><td>22.5 -  31 °C</td><td>24.3 -  33 °C</td>
+        <td>22.4 -  27.4 °C</td><td>22.1 -  29.8 °C</td><td>24.6 -  33.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>24.8 kph</td><td>15.5 kph</td><td>6.5 kph</td>
+        <td>24.8 kph</td><td>13.3 kph</td><td>5.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-07-23T04:28:35Z*
+*Updated at: 2024-07-23T05:28:58Z*
