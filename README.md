@@ -21,11 +21,11 @@ Sunny
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.7 °C</td><td>17.3 °C</td><td>16.3 °C</td><td>16.8 °C</td><td>16.4 °C</td><td>16.1 °C</td><td>15.7 °C</td><td>15.9 °C</td><td>17.3 °C</td><td>18.8 °C</td><td>20.2 °C</td><td>21.6 °C</td><td>22.7 °C</td><td>23.6 °C</td><td>24.3 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24 °C</td><td>22.5 °C</td><td>20.9 °C</td><td>20.4 °C</td><td>19.8 °C</td><td>19.2 °C</td><td>18.6 °C</td>
+        <td>17.7 °C</td><td>17.3 °C</td><td>17.1 °C</td><td>16.1 °C</td><td>16.4 °C</td><td>16.1 °C</td><td>15.7 °C</td><td>15.9 °C</td><td>17.3 °C</td><td>18.8 °C</td><td>20.2 °C</td><td>21.6 °C</td><td>22.7 °C</td><td>23.6 °C</td><td>24.3 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24 °C</td><td>22.5 °C</td><td>20.9 °C</td><td>20.4 °C</td><td>19.8 °C</td><td>19.2 °C</td><td>18.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Sunny
 </table>
 
 
-*Updated at: 2024-09-22T17:28:14Z*
+*Updated at: 2024-09-22T18:31:59Z*
