@@ -25,7 +25,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11.7 °C</td><td>12.3 °C</td><td>11 °C</td><td>11 °C</td><td>10.7 °C</td><td>10.3 °C</td><td>10.7 °C</td><td>10.7 °C</td><td>11.5 °C</td><td>12.6 °C</td><td>13.9 °C</td><td>15.5 °C</td><td>17.2 °C</td><td>18 °C</td><td>18.7 °C</td><td>18.4 °C</td><td>18.1 °C</td><td>17.7 °C</td><td>17.4 °C</td><td>17.2 °C</td><td>17.1 °C</td><td>16.9 °C</td><td>16.6 °C</td><td>16.5 °C</td>
+        <td>11.7 °C</td><td>11.1 °C</td><td>11 °C</td><td>11 °C</td><td>10.7 °C</td><td>10.3 °C</td><td>10.7 °C</td><td>10.7 °C</td><td>11.5 °C</td><td>12.6 °C</td><td>13.9 °C</td><td>15.5 °C</td><td>17.2 °C</td><td>18 °C</td><td>18.7 °C</td><td>18.4 °C</td><td>18.1 °C</td><td>17.7 °C</td><td>17.4 °C</td><td>17.2 °C</td><td>17.1 °C</td><td>16.9 °C</td><td>16.6 °C</td><td>16.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2024-10-20T15:30:18Z*
+*Updated at: 2024-10-20T16:32:19Z*
