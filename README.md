@@ -3,9 +3,9 @@
 
 `Seoul, South Korea - 01/11/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
 
-Sunny
+Overcast 
 
 </div>
 
@@ -29,7 +29,7 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>3.6 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>4 kph</td><td>4 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>4 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>4.7 kph</td><td>5 kph</td><td>2.9 kph</td><td>4 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>4 kph</td><td>3.6 kph</td>
+        <td>3.6 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>4 kph</td><td>4 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>4 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>4.7 kph</td><td>5 kph</td><td>2.9 kph</td><td>4 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -44,21 +44,21 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td>
+        <td width="200px">Overcast </td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>14.5 -  21.2 °C</td><td>15.7 -  17.8 °C</td><td>13.4 -  20.4 °C</td>
+        <td>15.2 -  19.1 °C</td><td>14.2 -  22 °C</td><td>13.6 -  21.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.2 kph</td><td>6.5 kph</td><td>14.8 kph</td>
+        <td>7.2 kph</td><td>13 kph</td><td>15.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-11-01T11:23:30Z*
+*Updated at: 2024-11-01T12:48:55Z*
