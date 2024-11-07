@@ -1,7 +1,7 @@
 ## 오늘의 날씨
 <div align="center">
 
-`Seoul, South Korea - 07/11/2024`
+`Seoul, South Korea - 08/11/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -21,15 +21,15 @@ Sunny
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td>
+        <td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>7.7 °C</td><td>7.5 °C</td><td>7.3 °C</td><td>7.1 °C</td><td>6.9 °C</td><td>6.7 °C</td><td>6.4 °C</td><td>6.2 °C</td><td>6.8 °C</td><td>8.1 °C</td><td>9.3 °C</td><td>10.7 °C</td><td>11.8 °C</td><td>12.7 °C</td><td>13.3 °C</td><td>13.6 °C</td><td>13.5 °C</td><td>13 °C</td><td>12.3 °C</td><td>11.7 °C</td><td>11.2 °C</td><td>10.7 °C</td><td>10.2 °C</td><td>8 °C</td>
+        <td>9.3 °C</td><td>8.3 °C</td><td>8.5 °C</td><td>8.2 °C</td><td>7.9 °C</td><td>7.7 °C</td><td>7.5 °C</td><td>7.3 °C</td><td>7.9 °C</td><td>9.4 °C</td><td>10.8 °C</td><td>12.3 °C</td><td>13.5 °C</td><td>14.5 °C</td><td>15 °C</td><td>15.3 °C</td><td>15.2 °C</td><td>14.7 °C</td><td>13.9 °C</td><td>13.5 °C</td><td>13 °C</td><td>12.7 °C</td><td>12.1 °C</td><td>11.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.5 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>4 kph</td><td>2.5 kph</td><td>1.4 kph</td><td>3.2 kph</td><td>4 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4 kph</td>
+        <td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4 kph</td><td>2.9 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>4 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4.7 kph</td>
     </tr>
 </table>
 
@@ -40,25 +40,25 @@ Sunny
 <table>
     <tr>
         <th>Date</th>
-        <td>07/11/2024</td><td>08/11/2024</td><td>09/11/2024</td>
+        <td>08/11/2024</td><td>09/11/2024</td><td>10/11/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>6.2 -  13.6 °C</td><td>7.3 -  15.3 °C</td><td>8.9 -  17.1 °C</td>
+        <td>7.3 -  15.3 °C</td><td>8.9 -  17.1 °C</td><td>11 -  17.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.4 kph</td><td>4.7 kph</td><td>5 kph</td>
+        <td>4.7 kph</td><td>5 kph</td><td>6.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-11-07T14:28:10Z*
+*Updated at: 2024-11-07T15:28:10Z*
