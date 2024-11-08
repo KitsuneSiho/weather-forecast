@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.4 °C</td><td>9 °C</td><td>8.6 °C</td><td>8.3 °C</td><td>8 °C</td><td>7.7 °C</td><td>7.5 °C</td><td>7.3 °C</td><td>7.9 °C</td><td>9.5 °C</td><td>10.9 °C</td><td>12.5 °C</td><td>13.7 °C</td><td>14.6 °C</td><td>15 °C</td><td>15.4 °C</td><td>15.3 °C</td><td>14.8 °C</td><td>13.8 °C</td><td>13.3 °C</td><td>12.7 °C</td><td>12.2 °C</td><td>11.7 °C</td><td>11.2 °C</td>
+        <td>9.4 °C</td><td>9 °C</td><td>8.6 °C</td><td>8.3 °C</td><td>8 °C</td><td>7.7 °C</td><td>7.5 °C</td><td>7.3 °C</td><td>7.9 °C</td><td>9.6 °C</td><td>11.1 °C</td><td>12.6 °C</td><td>13.7 °C</td><td>14.7 °C</td><td>15.3 °C</td><td>17.1 °C</td><td>15.5 °C</td><td>14.9 °C</td><td>13.9 °C</td><td>13.3 °C</td><td>12.7 °C</td><td>12.2 °C</td><td>11.7 °C</td><td>11.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4 kph</td><td>4.7 kph</td><td>5 kph</td><td>3.2 kph</td><td>4 kph</td><td>3.2 kph</td><td>4 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4 kph</td><td>4 kph</td><td>5 kph</td><td>4.3 kph</td>
+        <td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>4 kph</td><td>4.3 kph</td><td>4 kph</td><td>5 kph</td><td>5 kph</td><td>4 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4 kph</td><td>4 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>5.8 kph</td><td>5 kph</td>
     </tr>
 </table>
 
@@ -52,13 +52,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>7.3 -  15.4 °C</td><td>8.9 -  17.1 °C</td><td>11.2 -  17.5 °C</td>
+        <td>7.3 -  15.6 °C</td><td>9 -  17.4 °C</td><td>11.4 -  17.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>4.7 kph</td><td>5.4 kph</td>
+        <td>5.8 kph</td><td>5 kph</td><td>5.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-11-08T05:30:14Z*
+*Updated at: 2024-11-08T06:34:54Z*
