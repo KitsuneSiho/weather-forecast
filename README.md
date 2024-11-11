@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.9 °C</td><td>13.7 °C</td><td>13.3 °C</td><td>12.8 °C</td><td>12.5 °C</td><td>12.3 °C</td><td>12.1 °C</td><td>11.8 °C</td><td>12.3 °C</td><td>13.7 °C</td><td>14.1 °C</td><td>16.1 °C</td><td>17.3 °C</td><td>18.2 °C</td><td>18.7 °C</td><td>19 °C</td><td>18.9 °C</td><td>18.3 °C</td><td>17.4 °C</td><td>16.9 °C</td><td>16.3 °C</td><td>15.9 °C</td><td>15.5 °C</td><td>15.2 °C</td>
+        <td>13.9 °C</td><td>13.7 °C</td><td>13.3 °C</td><td>12.8 °C</td><td>12.5 °C</td><td>12.3 °C</td><td>12.1 °C</td><td>11.8 °C</td><td>12.3 °C</td><td>13.7 °C</td><td>14.9 °C</td><td>17.1 °C</td><td>17.3 °C</td><td>18.2 °C</td><td>18.7 °C</td><td>19 °C</td><td>18.9 °C</td><td>18.3 °C</td><td>17.4 °C</td><td>16.9 °C</td><td>16.3 °C</td><td>15.9 °C</td><td>15.5 °C</td><td>15.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Sunny
 </table>
 
 
-*Updated at: 2024-11-11T01:54:00Z*
+*Updated at: 2024-11-11T02:56:20Z*
