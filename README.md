@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>6.2 °C</td><td>6 °C</td><td>5.6 °C</td><td>5.3 °C</td><td>5.1 °C</td><td>4.9 °C</td><td>4.6 °C</td><td>4.5 °C</td><td>3.1 °C</td><td>5.7 °C</td><td>6.8 °C</td><td>8 °C</td><td>9 °C</td><td>9.8 °C</td><td>10.3 °C</td><td>10.4 °C</td><td>10.3 °C</td><td>9.7 °C</td><td>9.3 °C</td><td>8.9 °C</td><td>8.5 °C</td><td>8.1 °C</td><td>7.7 °C</td><td>7.3 °C</td>
+        <td>6.2 °C</td><td>5.9 °C</td><td>5.5 °C</td><td>5.2 °C</td><td>5 °C</td><td>4.7 °C</td><td>4.5 °C</td><td>4.3 °C</td><td>4.4 °C</td><td>5.5 °C</td><td>6 °C</td><td>8 °C</td><td>9 °C</td><td>9.7 °C</td><td>10.2 °C</td><td>10.4 °C</td><td>10.3 °C</td><td>9.7 °C</td><td>9.3 °C</td><td>8.9 °C</td><td>8.5 °C</td><td>8 °C</td><td>7.6 °C</td><td>7.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4 kph</td><td>4 kph</td><td>4 kph</td><td>4.3 kph</td>
+        <td>5.8 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -52,13 +52,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>4.5 -  10.4 °C</td><td>5.1 -  11 °C</td><td>6.3 -  12.5 °C</td>
+        <td>4.3 -  10.4 °C</td><td>5.2 -  11 °C</td><td>5.8 -  13.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.8 kph</td><td>6.5 kph</td><td>21.2 kph</td>
+        <td>6.8 kph</td><td>5.4 kph</td><td>24.5 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-11-22T23:29:10Z*
+*Updated at: 2024-11-23T01:55:04Z*
