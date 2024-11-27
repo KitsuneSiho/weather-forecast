@@ -25,7 +25,7 @@ Moderate or heavy snow showers
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-0.7 °C</td><td>0.4 °C</td><td>0.8 °C</td><td>0.8 °C</td><td>0.8 °C</td><td>2.1 °C</td><td>1.1 °C</td><td>0.4 °C</td><td>-0 °C</td><td>0.5 °C</td><td>0.5 °C</td><td>0.7 °C</td><td>0.9 °C</td><td>1 °C</td><td>1.4 °C</td><td>1.9 °C</td><td>1.7 °C</td><td>1.1 °C</td><td>0.7 °C</td><td>0.2 °C</td><td>0 °C</td><td>-0.6 °C</td><td>-1.3 °C</td><td>-1.9 °C</td>
+        <td>-0.7 °C</td><td>0.2 °C</td><td>0.8 °C</td><td>0.8 °C</td><td>0.8 °C</td><td>2.1 °C</td><td>1.1 °C</td><td>0.4 °C</td><td>-0 °C</td><td>0.5 °C</td><td>0.5 °C</td><td>0.7 °C</td><td>0.9 °C</td><td>1 °C</td><td>1.4 °C</td><td>1.9 °C</td><td>1.7 °C</td><td>1.1 °C</td><td>0.7 °C</td><td>0.2 °C</td><td>0 °C</td><td>-0.6 °C</td><td>-1.3 °C</td><td>-1.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Moderate or heavy snow showers
 </table>
 
 
-*Updated at: 2024-11-27T15:30:41Z*
+*Updated at: 2024-11-27T16:36:27Z*
