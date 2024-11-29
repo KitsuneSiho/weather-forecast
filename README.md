@@ -21,11 +21,11 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>1.8 °C</td><td>1.5 °C</td><td>1.3 °C</td><td>0.4 °C</td><td>1.1 °C</td><td>1.2 °C</td><td>1.3 °C</td><td>1.2 °C</td><td>1.2 °C</td><td>2.4 °C</td><td>4 °C</td><td>5.3 °C</td><td>6.5 °C</td><td>7.6 °C</td><td>8.5 °C</td><td>9.4 °C</td><td>9.2 °C</td><td>8.2 °C</td><td>8.4 °C</td><td>8.5 °C</td><td>8 °C</td><td>7.4 °C</td><td>7 °C</td><td>6.5 °C</td>
+        <td>1.8 °C</td><td>1.5 °C</td><td>1.3 °C</td><td>1.2 °C</td><td>0.2 °C</td><td>1.2 °C</td><td>1.3 °C</td><td>1.2 °C</td><td>1.2 °C</td><td>2.4 °C</td><td>4 °C</td><td>5.3 °C</td><td>6.5 °C</td><td>7.6 °C</td><td>8.5 °C</td><td>9.4 °C</td><td>9.2 °C</td><td>8.2 °C</td><td>8.4 °C</td><td>8.5 °C</td><td>8 °C</td><td>7.4 °C</td><td>7 °C</td><td>6.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2024-11-29T18:36:00Z*
+*Updated at: 2024-11-29T19:24:20Z*
