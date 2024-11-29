@@ -25,7 +25,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-1.2 °C</td><td>-1.3 °C</td><td>-1.5 °C</td><td>-1.6 °C</td><td>-1.7 °C</td><td>-1.7 °C</td><td>-1.7 °C</td><td>-1.7 °C</td><td>-1.6 °C</td><td>-0.4 °C</td><td>0.5 °C</td><td>1.3 °C</td><td>1.3 °C</td><td>3.4 °C</td><td>4.5 °C</td><td>4.5 °C</td><td>4.3 °C</td><td>3 °C</td><td>3.3 °C</td><td>2.8 °C</td><td>2.4 °C</td><td>2.2 °C</td><td>2.2 °C</td><td>2.1 °C</td>
+        <td>-1.2 °C</td><td>-1.3 °C</td><td>-1.5 °C</td><td>-1.6 °C</td><td>-1.7 °C</td><td>-1.7 °C</td><td>-1.7 °C</td><td>-1.7 °C</td><td>-1.6 °C</td><td>-0.4 °C</td><td>0.5 °C</td><td>1.3 °C</td><td>3.2 °C</td><td>3.4 °C</td><td>4.5 °C</td><td>4.5 °C</td><td>4.3 °C</td><td>3 °C</td><td>3.3 °C</td><td>2.8 °C</td><td>2.4 °C</td><td>2.2 °C</td><td>2.2 °C</td><td>2.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2024-11-29T03:06:19Z*
+*Updated at: 2024-11-29T03:42:47Z*
