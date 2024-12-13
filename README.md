@@ -21,11 +21,11 @@ Overcast
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td>
+        <td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>1.1 °C</td><td>1 °C</td><td>0.9 °C</td><td>0.9 °C</td><td>0.9 °C</td><td>0.8 °C</td><td>0.6 °C</td><td>0.6 °C</td><td>0.8 °C</td><td>1.1 °C</td><td>1.7 °C</td><td>2.3 °C</td><td>2.2 °C</td><td>2.7 °C</td><td>3.1 °C</td><td>3.1 °C</td><td>2.8 °C</td><td>2.5 °C</td><td>1.7 °C</td><td>1 °C</td><td>0.2 °C</td><td>-0.2 °C</td><td>-1.8 °C</td><td>-0.6 °C</td>
+        <td>1.1 °C</td><td>1 °C</td><td>0.9 °C</td><td>0.9 °C</td><td>0.9 °C</td><td>0.8 °C</td><td>0.6 °C</td><td>0.6 °C</td><td>0.8 °C</td><td>1.1 °C</td><td>1.7 °C</td><td>2.3 °C</td><td>2.2 °C</td><td>2.7 °C</td><td>3.1 °C</td><td>3.1 °C</td><td>2.8 °C</td><td>2.5 °C</td><td>1.7 °C</td><td>1 °C</td><td>0.2 °C</td><td>-0.2 °C</td><td>-0.4 °C</td><td>-2.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Overcast
 </table>
 
 
-*Updated at: 2024-12-13T13:35:21Z*
+*Updated at: 2024-12-13T14:32:25Z*
