@@ -29,7 +29,7 @@ Moderate snow
     </tr>
     <tr>
         <th>Wind</th>
-        <td>1.4 kph</td><td>3.2 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>4.7 kph</td><td>5 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4 kph</td><td>4 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>2.9 kph</td><td>1.8 kph</td><td>2.2 kph</td>
+        <td>1.4 kph</td><td>3.2 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>4.7 kph</td><td>5 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>4 kph</td><td>4 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>2.9 kph</td><td>1.8 kph</td><td>2.2 kph</td>
     </tr>
 </table>
 
@@ -61,4 +61,4 @@ Moderate snow
 </table>
 
 
-*Updated at: 2024-12-20T01:54:16Z*
+*Updated at: 2024-12-20T02:56:47Z*
