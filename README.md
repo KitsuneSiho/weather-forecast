@@ -29,7 +29,7 @@ Light freezing rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>1.8 kph</td><td>0.7 kph</td><td>4 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>9 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>14 kph</td><td>14.4 kph</td><td>18.7 kph</td><td>19.1 kph</td><td>20.5 kph</td><td>21.2 kph</td><td>20.9 kph</td><td>22 kph</td><td>22 kph</td><td>19.1 kph</td><td>18 kph</td><td>18.4 kph</td><td>17.3 kph</td><td>18 kph</td><td>18.4 kph</td><td>17.6 kph</td>
+        <td>1.8 kph</td><td>0.7 kph</td><td>4 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>9 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>14 kph</td><td>14.4 kph</td><td>18.7 kph</td><td>19.1 kph</td><td>20.5 kph</td><td>21.2 kph</td><td>20.9 kph</td><td>22 kph</td><td>22 kph</td><td>19.1 kph</td><td>18 kph</td><td>18.4 kph</td><td>17.3 kph</td><td>18 kph</td><td>18.4 kph</td><td>17.6 kph</td>
     </tr>
 </table>
 
@@ -61,4 +61,4 @@ Light freezing rain
 </table>
 
 
-*Updated at: 2024-12-20T18:34:17Z*
+*Updated at: 2024-12-20T19:21:30Z*
