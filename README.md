@@ -3,9 +3,9 @@
 
 `Seoul, South Korea - 08/01/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-Sunny
+Partly Cloudy 
 
 </div>
 
@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-3.7 °C</td><td>-4.6 °C</td><td>-3.9 °C</td><td>-3.9 °C</td><td>-4 °C</td><td>-4 °C</td><td>-4.1 °C</td><td>-4.3 °C</td><td>-4.3 °C</td><td>-3.7 °C</td><td>-3.1 °C</td><td>-2.2 °C</td><td>-1.6 °C</td><td>-1.3 °C</td><td>-1.5 °C</td><td>-1.7 °C</td><td>-2.8 °C</td><td>-3.9 °C</td><td>-4.9 °C</td><td>-5.5 °C</td><td>-6 °C</td><td>-6.6 °C</td><td>-7.2 °C</td><td>-7.8 °C</td>
+        <td>-3.7 °C</td><td>-6.9 °C</td><td>-3.9 °C</td><td>-3.9 °C</td><td>-4 °C</td><td>-4 °C</td><td>-4.1 °C</td><td>-4.3 °C</td><td>-4.3 °C</td><td>-3.7 °C</td><td>-3.1 °C</td><td>-2.2 °C</td><td>-1.6 °C</td><td>-1.3 °C</td><td>-1.5 °C</td><td>-1.7 °C</td><td>-2.8 °C</td><td>-3.9 °C</td><td>-4.9 °C</td><td>-5.5 °C</td><td>-6 °C</td><td>-6.6 °C</td><td>-7.2 °C</td><td>-7.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,21 +44,21 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-6.6 -  -1.3 °C</td><td>-9.4 -  -2.3 °C</td><td>-5.8 -  -1.3 °C</td>
+        <td>-6.5 -  -1.2 °C</td><td>-10 -  -8.2 °C</td><td>-9.2 -  -3.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>24.5 kph</td><td>25.2 kph</td><td>12.6 kph</td>
+        <td>23.8 kph</td><td>31 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-01-07T15:45:51Z*
+*Updated at: 2025-01-07T16:46:35Z*
