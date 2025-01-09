@@ -21,11 +21,11 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Overcast </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Overcast </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-5.8 °C</td><td>-6.6 °C</td><td>-7.1 °C</td><td>-7.7 °C</td><td>-7.9 °C</td><td>-8.5 °C</td><td>-9.4 °C</td><td>-9.7 °C</td><td>-9.9 °C</td><td>-9.8 °C</td><td>-9.5 °C</td><td>-9.1 °C</td><td>-8.7 °C</td><td>-8.6 °C</td><td>-8.9 °C</td><td>-9.2 °C</td><td>-9.3 °C</td><td>-9.5 °C</td><td>-10.8 °C</td><td>-9.9 °C</td><td>-9.9 °C</td><td>-9.9 °C</td><td>-9.9 °C</td><td>-9.8 °C</td>
+        <td>-5.8 °C</td><td>-6.6 °C</td><td>-7.1 °C</td><td>-7.7 °C</td><td>-7.9 °C</td><td>-8.5 °C</td><td>-9.4 °C</td><td>-9.7 °C</td><td>-9.9 °C</td><td>-9.8 °C</td><td>-9.5 °C</td><td>-9.1 °C</td><td>-8.7 °C</td><td>-8.6 °C</td><td>-8.9 °C</td><td>-9.2 °C</td><td>-9.3 °C</td><td>-9.5 °C</td><td>-9.7 °C</td><td>-9.9 °C</td><td>-10.9 °C</td><td>-9.9 °C</td><td>-9.9 °C</td><td>-9.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2025-01-09T09:28:21Z*
+*Updated at: 2025-01-09T10:32:36Z*
