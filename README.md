@@ -21,11 +21,11 @@ Sunny
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-10.7 °C</td><td>-10.5 °C</td><td>-10.5 °C</td><td>-10.4 °C</td><td>-10.3 °C</td><td>-10.2 °C</td><td>-9.9 °C</td><td>-9.7 °C</td><td>-9.5 °C</td><td>-9 °C</td><td>-8 °C</td><td>-6.9 °C</td><td>-6.1 °C</td><td>-5.3 °C</td><td>-4.6 °C</td><td>-4.1 °C</td><td>-3.7 °C</td><td>-4.3 °C</td><td>-4.6 °C</td><td>-4.6 °C</td><td>-4.7 °C</td><td>-4.8 °C</td><td>-5 °C</td><td>-5.2 °C</td>
+        <td>-10.7 °C</td><td>-10.5 °C</td><td>-10.5 °C</td><td>-10.4 °C</td><td>-10.3 °C</td><td>-10.2 °C</td><td>-9.9 °C</td><td>-9.7 °C</td><td>-9.5 °C</td><td>-9 °C</td><td>-8 °C</td><td>-6.9 °C</td><td>-6.1 °C</td><td>-5.3 °C</td><td>-4.6 °C</td><td>-4.1 °C</td><td>-4.1 °C</td><td>-4.3 °C</td><td>-5.7 °C</td><td>-4.6 °C</td><td>-4.7 °C</td><td>-4.8 °C</td><td>-5 °C</td><td>-5.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Sunny
 </table>
 
 
-*Updated at: 2025-01-10T08:32:39Z*
+*Updated at: 2025-01-10T09:28:22Z*
