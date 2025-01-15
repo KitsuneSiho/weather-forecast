@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-1.4 °C</td><td>-1.8 °C</td><td>-2.4 °C</td><td>-2.9 °C</td><td>-3.3 °C</td><td>-3.6 °C</td><td>-3.9 °C</td><td>-4.4 °C</td><td>-5.9 °C</td><td>-4.9 °C</td><td>-4.6 °C</td><td>-4.2 °C</td><td>-3.7 °C</td><td>-3.2 °C</td><td>-2.8 °C</td><td>-2.6 °C</td><td>-2.6 °C</td><td>-2.8 °C</td><td>-3.2 °C</td><td>-3.5 °C</td><td>-3.8 °C</td><td>-4.2 °C</td><td>-4.4 °C</td><td>-4.6 °C</td>
+        <td>-1.4 °C</td><td>-1.8 °C</td><td>-2.4 °C</td><td>-2.9 °C</td><td>-3.3 °C</td><td>-3.6 °C</td><td>-3.9 °C</td><td>-4.2 °C</td><td>-4.5 °C</td><td>-4.6 °C</td><td>-2.6 °C</td><td>-3.9 °C</td><td>-3.4 °C</td><td>-3.1 °C</td><td>-2.7 °C</td><td>-2.5 °C</td><td>-2.5 °C</td><td>-2.7 °C</td><td>-3 °C</td><td>-3.4 °C</td><td>-3.7 °C</td><td>-4 °C</td><td>-4.1 °C</td><td>-4.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.5 kph</td><td>18.7 kph</td><td>20.2 kph</td><td>19.8 kph</td><td>20.5 kph</td><td>19.4 kph</td><td>18.7 kph</td><td>19.1 kph</td><td>18.4 kph</td><td>19.8 kph</td><td>19.1 kph</td><td>19.1 kph</td><td>19.4 kph</td><td>20.2 kph</td><td>19.8 kph</td><td>19.8 kph</td><td>19.4 kph</td><td>16.9 kph</td><td>14.8 kph</td><td>15.5 kph</td><td>15.1 kph</td><td>14 kph</td><td>13 kph</td><td>9.4 kph</td>
+        <td>15.8 kph</td><td>18.7 kph</td><td>19.4 kph</td><td>20.5 kph</td><td>19.4 kph</td><td>19.1 kph</td><td>18 kph</td><td>17.6 kph</td><td>16.9 kph</td><td>18.7 kph</td><td>18.7 kph</td><td>19.4 kph</td><td>20.2 kph</td><td>20.5 kph</td><td>20.5 kph</td><td>19.8 kph</td><td>18.7 kph</td><td>17.3 kph</td><td>15.1 kph</td><td>15.1 kph</td><td>14.8 kph</td><td>13 kph</td><td>11.2 kph</td><td>8.3 kph</td>
     </tr>
 </table>
 
@@ -52,7 +52,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-4.9 -  -2.6 °C</td><td>-4.7 -  3.1 °C</td><td>-3 -  1.6 °C</td>
+        <td>-4.6 -  -2.5 °C</td><td>-4.5 -  3 °C</td><td>-3 -  1.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Sunny
 </table>
 
 
-*Updated at: 2025-01-14T23:24:31Z*
+*Updated at: 2025-01-15T01:50:47Z*
