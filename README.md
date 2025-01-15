@@ -25,7 +25,7 @@ Patchy moderate snow
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-4.3 °C</td><td>-4.4 °C</td><td>-4.4 °C</td><td>-4.4 °C</td><td>-3.8 °C</td><td>-4.4 °C</td><td>-4.5 °C</td><td>-4.3 °C</td><td>-4.1 °C</td><td>-3.4 °C</td><td>-2.5 °C</td><td>-1.5 °C</td><td>-0.5 °C</td><td>-0.1 °C</td><td>0.4 °C</td><td>1.3 °C</td><td>2.4 °C</td><td>1.5 °C</td><td>0.4 °C</td><td>-0 °C</td><td>-0.3 °C</td><td>-0.8 °C</td><td>-1.2 °C</td><td>-1.5 °C</td>
+        <td>-4.3 °C</td><td>-4.4 °C</td><td>-4.4 °C</td><td>-4.4 °C</td><td>-2.9 °C</td><td>-4.4 °C</td><td>-4.5 °C</td><td>-4.3 °C</td><td>-4.1 °C</td><td>-3.4 °C</td><td>-2.5 °C</td><td>-1.5 °C</td><td>-0.5 °C</td><td>-0.1 °C</td><td>0.4 °C</td><td>1.3 °C</td><td>2.4 °C</td><td>1.5 °C</td><td>0.4 °C</td><td>-0 °C</td><td>-0.3 °C</td><td>-0.8 °C</td><td>-1.2 °C</td><td>-1.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Patchy moderate snow
 </table>
 
 
-*Updated at: 2025-01-15T19:21:01Z*
+*Updated at: 2025-01-15T20:27:11Z*
