@@ -29,7 +29,7 @@ Patchy moderate snow
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4 kph</td><td>5 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>9 kph</td><td>9 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>5 kph</td><td>4.7 kph</td>
+        <td>5 kph</td><td>2.2 kph</td><td>1.1 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4 kph</td><td>5 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>9 kph</td><td>9 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>5 kph</td><td>4.7 kph</td>
     </tr>
 </table>
 
@@ -52,13 +52,13 @@ Patchy moderate snow
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-4.8 -  2.2 °C</td><td>-3.6 -  1.1 °C</td><td>-2.4 -  2.7 °C</td>
+        <td>-4.5 -  2.4 °C</td><td>-3.4 -  1.1 °C</td><td>-2.2 -  2.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9 kph</td><td>5.4 kph</td><td>2.9 kph</td>
+        <td>9 kph</td><td>6.1 kph</td><td>4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-01-15T16:31:18Z*
+*Updated at: 2025-01-15T17:27:13Z*
