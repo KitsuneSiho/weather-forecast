@@ -17,15 +17,15 @@ Moderate or heavy snow showers
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/338.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/338.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/338.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/338.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Heavy snow</td><td width="200px">Heavy snow</td><td width="200px">Light snow showers</td><td width="200px">Light snow showers</td><td width="200px">Light snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate snow</td><td width="200px">Moderate snow</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Light snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Light snow showers</td><td width="200px">Partly cloudy</td><td width="200px">Light snow showers</td><td width="200px">Light snow showers</td><td width="200px">Light snow</td><td width="200px">Light snow</td>
+        <td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Heavy snow</td><td width="200px">Heavy snow</td><td width="200px">Light snow showers</td><td width="200px">Light snow showers</td><td width="200px">Light snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate snow</td><td width="200px">Moderate snow</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Light snow showers</td><td width="200px">Moderate or heavy snow showers</td><td width="200px">Light snow showers</td><td width="200px">Light snow showers</td><td width="200px">Partly cloudy</td><td width="200px">Light snow showers</td><td width="200px">Light snow</td><td width="200px">Light snow</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-3.1 °C</td><td>-3.1 °C</td><td>-3.3 °C</td><td>-3.6 °C</td><td>-3.4 °C</td><td>-3.9 °C</td><td>-3.5 °C</td><td>-3.9 °C</td><td>-4.2 °C</td><td>-4.1 °C</td><td>-3.8 °C</td><td>-3.9 °C</td><td>-3.4 °C</td><td>-3.3 °C</td><td>-3.2 °C</td><td>-3 °C</td><td>-3.2 °C</td><td>-3.8 °C</td><td>-4.4 °C</td><td>-4.9 °C</td><td>-4.6 °C</td><td>-4.7 °C</td><td>-4.6 °C</td><td>-4.6 °C</td>
+        <td>-3.1 °C</td><td>-3.1 °C</td><td>-3.3 °C</td><td>-3.6 °C</td><td>-3.4 °C</td><td>-3.9 °C</td><td>-3.5 °C</td><td>-3.9 °C</td><td>-4.2 °C</td><td>-4.1 °C</td><td>-3.8 °C</td><td>-3.9 °C</td><td>-3.4 °C</td><td>-3.3 °C</td><td>-3.2 °C</td><td>-3 °C</td><td>-3.2 °C</td><td>-3.8 °C</td><td>-4.4 °C</td><td>-4.6 °C</td><td>-5.8 °C</td><td>-4.7 °C</td><td>-4.6 °C</td><td>-4.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,21 +44,21 @@ Moderate or heavy snow showers
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate or heavy snow showers</td><td width="200px">Light snow</td><td width="200px">Sunny</td>
+        <td width="200px">Moderate or heavy snow showers</td><td width="200px">Light freezing rain</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-4.7 -  -3 °C</td><td>-6.5 -  -2.4 °C</td><td>-8.2 -  -2.9 °C</td>
+        <td>-4.8 -  -2.9 °C</td><td>-6.5 -  -2.4 °C</td><td>-8.2 -  -3.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>26.3 kph</td><td>23 kph</td><td>12.6 kph</td>
+        <td>25.6 kph</td><td>22.3 kph</td><td>12.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-01-28T10:31:29Z*
+*Updated at: 2025-01-28T11:22:33Z*
