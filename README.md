@@ -21,11 +21,11 @@ Sunny
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-8.9 °C</td><td>-9.3 °C</td><td>-9.9 °C</td><td>-9.8 °C</td><td>-10.2 °C</td><td>-10.5 °C</td><td>-10.7 °C</td><td>-11 °C</td><td>-11.1 °C</td><td>-10.8 °C</td><td>-10.2 °C</td><td>-9.4 °C</td><td>-8.4 °C</td><td>-7.6 °C</td><td>-7 °C</td><td>-6.7 °C</td><td>-6.8 °C</td><td>-7.1 °C</td><td>-7.7 °C</td><td>-8.2 °C</td><td>-8.5 °C</td><td>-8.7 °C</td><td>-8.8 °C</td><td>-8.9 °C</td>
+        <td>-8.9 °C</td><td>-9.3 °C</td><td>-9.5 °C</td><td>-10 °C</td><td>-10.2 °C</td><td>-10.5 °C</td><td>-10.7 °C</td><td>-11 °C</td><td>-11.1 °C</td><td>-10.8 °C</td><td>-10.2 °C</td><td>-9.4 °C</td><td>-8.4 °C</td><td>-7.6 °C</td><td>-7 °C</td><td>-6.7 °C</td><td>-6.8 °C</td><td>-7.1 °C</td><td>-7.7 °C</td><td>-8.2 °C</td><td>-8.5 °C</td><td>-8.7 °C</td><td>-8.8 °C</td><td>-8.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,21 +44,21 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/329.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy moderate snow</td>
+        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Moderate snow</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-11 -  -6.5 °C</td><td>-9.2 -  -5.2 °C</td><td>-9.6 -  -2.2 °C</td>
+        <td>-11.1 -  -6.7 °C</td><td>-9.3 -  -5 °C</td><td>-9.4 -  -1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>24.5 kph</td><td>25.6 kph</td><td>18.4 kph</td>
+        <td>24.5 kph</td><td>25.6 kph</td><td>18 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-02-03T17:27:41Z*
+*Updated at: 2025-02-03T18:34:05Z*
