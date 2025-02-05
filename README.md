@@ -3,9 +3,9 @@
 
 `Seoul, South Korea - 05/02/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
 
-Partly Cloudy 
+Overcast 
 
 </div>
 
@@ -21,11 +21,11 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-9.6 °C</td><td>-9.5 °C</td><td>-9.3 °C</td><td>-9.1 °C</td><td>-8.9 °C</td><td>-9.1 °C</td><td>-9.6 °C</td><td>-9.7 °C</td><td>-9.7 °C</td><td>-9.2 °C</td><td>-8.4 °C</td><td>-7.6 °C</td><td>-7.3 °C</td><td>-6.6 °C</td><td>-6.3 °C</td><td>-5.7 °C</td><td>-5.5 °C</td><td>-5.6 °C</td><td>-6.4 °C</td><td>-8 °C</td><td>-7.9 °C</td><td>-8.4 °C</td><td>-8.7 °C</td><td>-8.8 °C</td>
+        <td>-9.6 °C</td><td>-9.5 °C</td><td>-9.3 °C</td><td>-9.1 °C</td><td>-8.9 °C</td><td>-9.1 °C</td><td>-9.6 °C</td><td>-9.7 °C</td><td>-9.7 °C</td><td>-9.2 °C</td><td>-8.4 °C</td><td>-7.6 °C</td><td>-7.3 °C</td><td>-6.6 °C</td><td>-6.3 °C</td><td>-5.7 °C</td><td>-5.5 °C</td><td>-5.6 °C</td><td>-6.4 °C</td><td>-7.2 °C</td><td>-7.8 °C</td><td>-8.4 °C</td><td>-8.7 °C</td><td>-8.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,21 +44,21 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Moderate snow</td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Overcast </td><td width="200px">Moderate snow</td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-9.7 -  -5.2 °C</td><td>-9.1 -  0.4 °C</td><td>-10.1 -  -6.5 °C</td>
+        <td>-9.7 -  -5.5 °C</td><td>-9.4 -  0.8 °C</td><td>-10.3 -  -7.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>24.1 kph</td><td>27 kph</td><td>31.7 kph</td>
+        <td>24.5 kph</td><td>24.1 kph</td><td>32 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-02-05T10:31:42Z*
+*Updated at: 2025-02-05T11:22:31Z*
