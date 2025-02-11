@@ -25,7 +25,7 @@ Heavy snow
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-1.3 °C</td><td>-1.9 °C</td><td>-1.3 °C</td><td>-1.1 °C</td><td>-1.3 °C</td><td>-1.4 °C</td><td>-1.4 °C</td><td>-1.7 °C</td><td>-1.6 °C</td><td>-1.5 °C</td><td>-0.8 °C</td><td>-0.2 °C</td><td>0.5 °C</td><td>0.6 °C</td><td>0.5 °C</td><td>0.4 °C</td><td>0.4 °C</td><td>0.4 °C</td><td>0.4 °C</td><td>-0.7 °C</td><td>-2.1 °C</td><td>-2.8 °C</td><td>-3.4 °C</td><td>-3.9 °C</td>
+        <td>-1.3 °C</td><td>-0.8 °C</td><td>-1.3 °C</td><td>-1.1 °C</td><td>-1.3 °C</td><td>-1.4 °C</td><td>-1.4 °C</td><td>-1.7 °C</td><td>-1.6 °C</td><td>-1.5 °C</td><td>-0.8 °C</td><td>-0.2 °C</td><td>0.5 °C</td><td>0.6 °C</td><td>0.5 °C</td><td>0.4 °C</td><td>0.4 °C</td><td>0.4 °C</td><td>0.4 °C</td><td>-0.7 °C</td><td>-2.1 °C</td><td>-2.8 °C</td><td>-3.4 °C</td><td>-3.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Heavy snow
 </table>
 
 
-*Updated at: 2025-02-11T15:29:56Z*
+*Updated at: 2025-02-11T16:35:22Z*
