@@ -1,7 +1,7 @@
 ## 오늘의 날씨
 <div align="center">
 
-`Seoul, South Korea - 17/02/2025`
+`Seoul, South Korea - 18/02/2025`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -21,15 +21,15 @@ Sunny
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td>
+        <td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-0.3 °C</td><td>-0.6 °C</td><td>-0.9 °C</td><td>-1.2 °C</td><td>-1.5 °C</td><td>-1.4 °C</td><td>-1.2 °C</td><td>-1.3 °C</td><td>-1.3 °C</td><td>-1.2 °C</td><td>-1.1 °C</td><td>-0.6 °C</td><td>0.3 °C</td><td>0.7 °C</td><td>0.9 °C</td><td>1 °C</td><td>0.8 °C</td><td>0.2 °C</td><td>-0.5 °C</td><td>-1.2 °C</td><td>-1.7 °C</td><td>-2 °C</td><td>-2.1 °C</td><td>-4 °C</td>
+        <td>-2.3 °C</td><td>-4.9 °C</td><td>-3.1 °C</td><td>-3.5 °C</td><td>-3.7 °C</td><td>-3.9 °C</td><td>-3.9 °C</td><td>-4 °C</td><td>-3.8 °C</td><td>-3.2 °C</td><td>-2.5 °C</td><td>-1.9 °C</td><td>-1.3 °C</td><td>-0.8 °C</td><td>-0.5 °C</td><td>-0.3 °C</td><td>-0.6 °C</td><td>-1.2 °C</td><td>-2.2 °C</td><td>-3 °C</td><td>-3.4 °C</td><td>-3.5 °C</td><td>-3.5 °C</td><td>-3.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>19.1 kph</td><td>21.2 kph</td><td>21.6 kph</td><td>21.6 kph</td><td>21.6 kph</td><td>20.9 kph</td><td>16.6 kph</td><td>18 kph</td><td>19.1 kph</td><td>20.9 kph</td><td>21.6 kph</td><td>20.9 kph</td><td>19.1 kph</td><td>20.9 kph</td><td>22.7 kph</td><td>23 kph</td><td>20.9 kph</td><td>21.6 kph</td><td>19.8 kph</td><td>17.3 kph</td><td>17.3 kph</td><td>17.6 kph</td><td>17.3 kph</td><td>17.3 kph</td>
+        <td>16.6 kph</td><td>16.6 kph</td><td>17.3 kph</td><td>17.3 kph</td><td>18 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>14.8 kph</td><td>14.8 kph</td><td>18 kph</td><td>19.4 kph</td><td>20.2 kph</td><td>21.6 kph</td><td>23 kph</td><td>24.5 kph</td><td>24.1 kph</td><td>23.8 kph</td><td>22.3 kph</td><td>20.5 kph</td><td>20.2 kph</td><td>19.8 kph</td><td>19.1 kph</td><td>18.4 kph</td><td>18 kph</td>
     </tr>
 </table>
 
@@ -40,7 +40,7 @@ Sunny
 <table>
     <tr>
         <th>Date</th>
-        <td>17/02/2025</td><td>18/02/2025</td><td>19/02/2025</td>
+        <td>18/02/2025</td><td>19/02/2025</td><td>20/02/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -52,13 +52,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-2.2 -  1 °C</td><td>-4 -  -0.3 °C</td><td>-5.9 -  -0.5 °C</td>
+        <td>-4 -  -0.3 °C</td><td>-5.9 -  -0.5 °C</td><td>-4.6 -  0.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>23 kph</td><td>24.5 kph</td><td>20.2 kph</td>
+        <td>24.5 kph</td><td>20.2 kph</td><td>19.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-02-17T14:30:21Z*
+*Updated at: 2025-02-17T15:27:10Z*
