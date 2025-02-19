@@ -1,7 +1,7 @@
 ## 오늘의 날씨
 <div align="center">
 
-`Seoul, South Korea - 19/02/2025`
+`Seoul, South Korea - 20/02/2025`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -21,15 +21,15 @@ Sunny
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td>
+        <td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-3.3 °C</td><td>-3.4 °C</td><td>-3.6 °C</td><td>-3.9 °C</td><td>-4.1 °C</td><td>-4.3 °C</td><td>-4.7 °C</td><td>-5 °C</td><td>-5.1 °C</td><td>-4.6 °C</td><td>-3.8 °C</td><td>-3 °C</td><td>-2.3 °C</td><td>-1.6 °C</td><td>-0.9 °C</td><td>-0.4 °C</td><td>-0.4 °C</td><td>-0.6 °C</td><td>-1.3 °C</td><td>-2 °C</td><td>-2.6 °C</td><td>-3.1 °C</td><td>-3.4 °C</td><td>-4.7 °C</td>
+        <td>-3.3 °C</td><td>-5.7 °C</td><td>-3.4 °C</td><td>-3.7 °C</td><td>-3.8 °C</td><td>-4 °C</td><td>-4.2 °C</td><td>-4.4 °C</td><td>-4.3 °C</td><td>-3.8 °C</td><td>-3 °C</td><td>-2.1 °C</td><td>-1.2 °C</td><td>-0.5 °C</td><td>0.1 °C</td><td>0.3 °C</td><td>0.3 °C</td><td>-0.2 °C</td><td>-0.9 °C</td><td>-1.7 °C</td><td>-2.4 °C</td><td>-3 °C</td><td>-3.3 °C</td><td>-3.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.8 kph</td><td>16.2 kph</td><td>15.5 kph</td><td>15.1 kph</td><td>15.1 kph</td><td>14.4 kph</td><td>14.8 kph</td><td>14.8 kph</td><td>15.5 kph</td><td>15.1 kph</td><td>16.9 kph</td><td>17.6 kph</td><td>18 kph</td><td>18.7 kph</td><td>18.7 kph</td><td>19.8 kph</td><td>18.7 kph</td><td>18 kph</td><td>17.3 kph</td><td>18.7 kph</td><td>17.6 kph</td><td>17.3 kph</td><td>17.6 kph</td><td>16.2 kph</td>
+        <td>14.8 kph</td><td>13.7 kph</td><td>13.7 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>11.9 kph</td><td>13 kph</td><td>14.8 kph</td><td>14.8 kph</td><td>17.3 kph</td><td>18.7 kph</td><td>19.4 kph</td><td>19.4 kph</td><td>18.4 kph</td><td>17.3 kph</td><td>17.6 kph</td><td>17.3 kph</td><td>17.6 kph</td><td>17.6 kph</td><td>17.6 kph</td>
     </tr>
 </table>
 
@@ -40,7 +40,7 @@ Sunny
 <table>
     <tr>
         <th>Date</th>
-        <td>19/02/2025</td><td>20/02/2025</td><td>21/02/2025</td>
+        <td>20/02/2025</td><td>21/02/2025</td><td>22/02/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -52,13 +52,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-5.1 -  -0.4 °C</td><td>-4.4 -  0.3 °C</td><td>-4.8 -  -0.1 °C</td>
+        <td>-4.4 -  0.3 °C</td><td>-4.8 -  -0.1 °C</td><td>-5.4 -  -0.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>19.8 kph</td><td>19.4 kph</td><td>19.8 kph</td>
+        <td>19.4 kph</td><td>19.8 kph</td><td>18.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-02-19T14:30:33Z*
+*Updated at: 2025-02-19T15:29:37Z*
