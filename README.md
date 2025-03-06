@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>3.2 °C</td><td>2.7 °C</td><td>2.3 °C</td><td>1.9 °C</td><td>1.6 °C</td><td>1.4 °C</td><td>1 °C</td><td>0.8 °C</td><td>0 °C</td><td>2.7 °C</td><td>3.8 °C</td><td>5 °C</td><td>6 °C</td><td>6.9 °C</td><td>7.7 °C</td><td>8.2 °C</td><td>8.5 °C</td><td>8.5 °C</td><td>8.2 °C</td><td>7.5 °C</td><td>6.9 °C</td><td>6.1 °C</td><td>5.2 °C</td><td>4.5 °C</td>
+        <td>3.2 °C</td><td>2.7 °C</td><td>2.3 °C</td><td>1.9 °C</td><td>1.6 °C</td><td>1.4 °C</td><td>1 °C</td><td>0.8 °C</td><td>1.5 °C</td><td>2.7 °C</td><td>4 °C</td><td>5 °C</td><td>6 °C</td><td>6.9 °C</td><td>7.7 °C</td><td>8.2 °C</td><td>8.5 °C</td><td>8.5 °C</td><td>8.2 °C</td><td>7.5 °C</td><td>6.9 °C</td><td>6.1 °C</td><td>5.2 °C</td><td>4.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>8.3 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>9 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4.3 kph</td>
+        <td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>8.3 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>9 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4.3 kph</td>
     </tr>
 </table>
 
@@ -52,13 +52,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>0.7 -  8.4 °C</td><td>1.5 -  8.7 °C</td><td>2.6 -  8.6 °C</td>
+        <td>0.8 -  8.5 °C</td><td>1.5 -  8.8 °C</td><td>2.5 -  8.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>11.9 kph</td><td>14 kph</td>
+        <td>10.8 kph</td><td>11.5 kph</td><td>13.7 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-03-05T23:27:43Z*
+*Updated at: 2025-03-06T01:58:15Z*
