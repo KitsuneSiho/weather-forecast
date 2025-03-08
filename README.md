@@ -21,11 +21,11 @@ Overcast
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>5.1 °C</td><td>4.9 °C</td><td>4.7 °C</td><td>4.3 °C</td><td>4 °C</td><td>3.7 °C</td><td>3.5 °C</td><td>3.3 °C</td><td>3.7 °C</td><td>4.3 °C</td><td>5.1 °C</td><td>5.9 °C</td><td>6.9 °C</td><td>7.5 °C</td><td>8.1 °C</td><td>8.3 °C</td><td>8.2 °C</td><td>7.6 °C</td><td>6.7 °C</td><td>6 °C</td><td>5.5 °C</td><td>4.3 °C</td><td>4.8 °C</td><td>4.4 °C</td>
+        <td>5.1 °C</td><td>4.9 °C</td><td>4.7 °C</td><td>4.3 °C</td><td>4 °C</td><td>3.7 °C</td><td>3.5 °C</td><td>3.3 °C</td><td>3.7 °C</td><td>4.3 °C</td><td>5.1 °C</td><td>5.9 °C</td><td>6.9 °C</td><td>7.5 °C</td><td>8.1 °C</td><td>8.3 °C</td><td>8.2 °C</td><td>7.6 °C</td><td>6.7 °C</td><td>6 °C</td><td>5.5 °C</td><td>5.1 °C</td><td>3.2 °C</td><td>4.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Overcast
 </table>
 
 
-*Updated at: 2025-03-08T12:40:30Z*
+*Updated at: 2025-03-08T13:23:10Z*
