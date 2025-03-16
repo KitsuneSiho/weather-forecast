@@ -21,11 +21,11 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Light snow</td><td width="200px">Moderate snow</td><td width="200px">Heavy snow</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Light snow</td><td width="200px">Moderate snow</td><td width="200px">Heavy snow</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>1.7 °C</td><td>1.2 °C</td><td>1.1 °C</td><td>0.4 °C</td><td>0.2 °C</td><td>-0.2 °C</td><td>-0.5 °C</td><td>-0.6 °C</td><td>-0.3 °C</td><td>0.5 °C</td><td>1.6 °C</td><td>2.5 °C</td><td>3.4 °C</td><td>4.1 °C</td><td>4.5 °C</td><td>4.7 °C</td><td>4.7 °C</td><td>4.3 °C</td><td>3.7 °C</td><td>3.4 °C</td><td>3.3 °C</td><td>3.3 °C</td><td>2.4 °C</td><td>1.1 °C</td>
+        <td>1.7 °C</td><td>1.2 °C</td><td>0.7 °C</td><td>0.1 °C</td><td>0.2 °C</td><td>-0.2 °C</td><td>-0.5 °C</td><td>-0.6 °C</td><td>-0.3 °C</td><td>0.5 °C</td><td>1.6 °C</td><td>2.5 °C</td><td>3.4 °C</td><td>4.1 °C</td><td>4.5 °C</td><td>4.7 °C</td><td>4.7 °C</td><td>4.3 °C</td><td>3.7 °C</td><td>3.4 °C</td><td>3.3 °C</td><td>3.3 °C</td><td>2.4 °C</td><td>1.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -52,13 +52,13 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-0.1 -  4.7 °C</td><td>-0.6 -  6.2 °C</td><td>0.2 -  6.4 °C</td>
+        <td>-0.6 -  4.7 °C</td><td>-0.8 -  5.4 °C</td><td>-0.1 -  6.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>25.2 kph</td><td>20.2 kph</td><td>19.8 kph</td>
+        <td>25.6 kph</td><td>18.4 kph</td><td>19.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-03-16T17:27:31Z*
+*Updated at: 2025-03-16T18:35:27Z*
