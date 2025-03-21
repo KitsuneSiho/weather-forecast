@@ -21,11 +21,11 @@ Sunny
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>7.6 °C</td><td>7.2 °C</td><td>7.1 °C</td><td>6.6 °C</td><td>6.3 °C</td><td>6.1 °C</td><td>6 °C</td><td>6.1 °C</td><td>7.7 °C</td><td>9.7 °C</td><td>11.6 °C</td><td>13.6 °C</td><td>15.7 °C</td><td>16.8 °C</td><td>17.3 °C</td><td>16.7 °C</td><td>15.8 °C</td><td>14.6 °C</td><td>13.3 °C</td><td>11.4 °C</td><td>10.5 °C</td><td>9.9 °C</td><td>9.4 °C</td><td>9 °C</td>
+        <td>7.6 °C</td><td>7.2 °C</td><td>6.9 °C</td><td>7.2 °C</td><td>6.3 °C</td><td>6.1 °C</td><td>6 °C</td><td>6.1 °C</td><td>7.7 °C</td><td>9.7 °C</td><td>11.6 °C</td><td>13.6 °C</td><td>15.7 °C</td><td>16.8 °C</td><td>17.3 °C</td><td>16.7 °C</td><td>15.8 °C</td><td>14.6 °C</td><td>13.3 °C</td><td>11.4 °C</td><td>10.5 °C</td><td>9.9 °C</td><td>9.4 °C</td><td>9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Sunny
 </table>
 
 
-*Updated at: 2025-03-21T17:29:26Z*
+*Updated at: 2025-03-21T18:36:35Z*
