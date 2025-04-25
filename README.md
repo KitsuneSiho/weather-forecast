@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11 °C</td><td>10.7 °C</td><td>9.3 °C</td><td>9.9 °C</td><td>9.6 °C</td><td>9.2 °C</td><td>9 °C</td><td>10.2 °C</td><td>11.9 °C</td><td>13.7 °C</td><td>15.2 °C</td><td>16.5 °C</td><td>17.9 °C</td><td>18.1 °C</td><td>18.2 °C</td><td>18 °C</td><td>17.6 °C</td><td>16.5 °C</td><td>15.7 °C</td><td>14.6 °C</td><td>13.6 °C</td><td>13.6 °C</td><td>13.3 °C</td><td>13.1 °C</td>
+        <td>11 °C</td><td>10.7 °C</td><td>10.3 °C</td><td>7.2 °C</td><td>9.6 °C</td><td>9.2 °C</td><td>9 °C</td><td>10.2 °C</td><td>11.9 °C</td><td>13.7 °C</td><td>15.2 °C</td><td>16.5 °C</td><td>17.9 °C</td><td>18.1 °C</td><td>18.2 °C</td><td>18 °C</td><td>17.6 °C</td><td>16.5 °C</td><td>15.7 °C</td><td>14.6 °C</td><td>13.6 °C</td><td>13.6 °C</td><td>13.3 °C</td><td>13.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,21 +44,21 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.1 -  18.1 °C</td><td>11.3 -  18.4 °C</td><td>10.1 -  20.3 °C</td>
+        <td>9 -  18.2 °C</td><td>11.6 -  19.3 °C</td><td>10.2 -  20.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>22.3 kph</td><td>24.5 kph</td><td>18.4 kph</td>
+        <td>22.3 kph</td><td>27.4 kph</td><td>20.9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-04-25T17:29:48Z*
+*Updated at: 2025-04-25T18:37:48Z*
