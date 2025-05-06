@@ -3,9 +3,9 @@
 
 `Seoul, South Korea - 06/05/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-Sunny
+Partly Cloudy 
 
 </div>
 
@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11.5 °C</td><td>10.5 °C</td><td>10.3 °C</td><td>10 °C</td><td>9.7 °C</td><td>9.3 °C</td><td>9.3 °C</td><td>10.9 °C</td><td>12.7 °C</td><td>14.6 °C</td><td>16.2 °C</td><td>17.6 °C</td><td>18.7 °C</td><td>19.5 °C</td><td>18.1 °C</td><td>20.1 °C</td><td>20 °C</td><td>19.4 °C</td><td>18.5 °C</td><td>17.4 °C</td><td>16.4 °C</td><td>15.6 °C</td><td>14.8 °C</td><td>14.1 °C</td>
+        <td>11.5 °C</td><td>10.5 °C</td><td>10.3 °C</td><td>10 °C</td><td>9.7 °C</td><td>9.3 °C</td><td>9.3 °C</td><td>10.9 °C</td><td>12.7 °C</td><td>14.6 °C</td><td>16.2 °C</td><td>17.6 °C</td><td>18.7 °C</td><td>19.5 °C</td><td>20.2 °C</td><td>19.1 °C</td><td>20 °C</td><td>19.4 °C</td><td>18.5 °C</td><td>17.4 °C</td><td>16.4 °C</td><td>15.6 °C</td><td>14.8 °C</td><td>14.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,21 +44,21 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.2 -  20.6 °C</td><td>11.5 -  20.2 °C</td><td>11.6 -  25.1 °C</td>
+        <td>9.3 -  20.2 °C</td><td>11.4 -  20.2 °C</td><td>11.7 -  24.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>19.1 kph</td><td>18.4 kph</td><td>8.3 kph</td>
+        <td>18.7 kph</td><td>18.4 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-05-06T05:32:30Z*
+*Updated at: 2025-05-06T06:44:34Z*
