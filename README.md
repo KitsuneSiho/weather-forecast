@@ -25,7 +25,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.4 °C</td><td>17.1 °C</td><td>16.9 °C</td><td>16.6 °C</td><td>16.4 °C</td><td>16 °C</td><td>14.6 °C</td><td>14.3 °C</td><td>17.2 °C</td><td>13.7 °C</td><td>13.7 °C</td><td>13.2 °C</td><td>13 °C</td><td>13.1 °C</td><td>13.1 °C</td><td>13.2 °C</td><td>13.1 °C</td><td>13.2 °C</td><td>13.3 °C</td><td>13.2 °C</td><td>13 °C</td><td>13.2 °C</td><td>13.1 °C</td><td>13.1 °C</td>
+        <td>17.4 °C</td><td>17.1 °C</td><td>16.9 °C</td><td>16.6 °C</td><td>16.4 °C</td><td>16 °C</td><td>14.6 °C</td><td>14.3 °C</td><td>13.8 °C</td><td>13.7 °C</td><td>13.7 °C</td><td>15.2 °C</td><td>13 °C</td><td>13.1 °C</td><td>13.1 °C</td><td>13.2 °C</td><td>13.1 °C</td><td>13.2 °C</td><td>13.3 °C</td><td>13.2 °C</td><td>13 °C</td><td>13.2 °C</td><td>13.1 °C</td><td>13.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Moderate rain
 </table>
 
 
-*Updated at: 2025-05-08T23:29:41Z*
+*Updated at: 2025-05-09T02:14:17Z*
