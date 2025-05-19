@@ -25,7 +25,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.5 °C</td><td>13.2 °C</td><td>13 °C</td><td>12.5 °C</td><td>12.2 °C</td><td>12.5 °C</td><td>12.1 °C</td><td>13.5 °C</td><td>15.4 °C</td><td>16.5 °C</td><td>17.2 °C</td><td>19.3 °C</td><td>22 °C</td><td>21.5 °C</td><td>18.5 °C</td><td>17.4 °C</td><td>17.3 °C</td><td>17.1 °C</td><td>17 °C</td><td>16.7 °C</td><td>16.4 °C</td><td>16.3 °C</td><td>16.1 °C</td><td>15.9 °C</td>
+        <td>13.5 °C</td><td>13.2 °C</td><td>13 °C</td><td>12.5 °C</td><td>12.2 °C</td><td>12.5 °C</td><td>12.1 °C</td><td>13.5 °C</td><td>15.4 °C</td><td>16.5 °C</td><td>17.2 °C</td><td>19.8 °C</td><td>19.3 °C</td><td>21.5 °C</td><td>18.5 °C</td><td>17.4 °C</td><td>17.3 °C</td><td>17.1 °C</td><td>17 °C</td><td>16.7 °C</td><td>16.4 °C</td><td>16.3 °C</td><td>16.1 °C</td><td>15.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2025-05-19T02:20:51Z*
+*Updated at: 2025-05-19T03:54:36Z*
