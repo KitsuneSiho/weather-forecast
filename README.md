@@ -1,7 +1,7 @@
 ## 오늘의 날씨
 <div align="center">
 
-`Seoul, South Korea - 25/07/2025`
+`Seoul, South Korea - 26/07/2025`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.4 °C</td><td>27 °C</td><td>26.6 °C</td><td>26.2 °C</td><td>25.8 °C</td><td>25.5 °C</td><td>25.5 °C</td><td>27 °C</td><td>28.5 °C</td><td>30.4 °C</td><td>32.3 °C</td><td>34.1 °C</td><td>35.9 °C</td><td>37 °C</td><td>37.8 °C</td><td>38.1 °C</td><td>37.9 °C</td><td>36.7 °C</td><td>34.6 °C</td><td>33 °C</td><td>31.5 °C</td><td>31.1 °C</td><td>30.4 °C</td><td>28.4 °C</td>
+        <td>29.5 °C</td><td>27.2 °C</td><td>28.6 °C</td><td>28.2 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>28.5 °C</td><td>29.9 °C</td><td>31.5 °C</td><td>33.1 °C</td><td>34.6 °C</td><td>35.9 °C</td><td>37 °C</td><td>37.7 °C</td><td>38 °C</td><td>37.7 °C</td><td>36.7 °C</td><td>35 °C</td><td>33.2 °C</td><td>31.8 °C</td><td>31.3 °C</td><td>30.8 °C</td><td>30.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.9 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>1.4 kph</td><td>1.1 kph</td><td>0.4 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>4 kph</td><td>5.8 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>6.5 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>3.6 kph</td>
+        <td>4 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>4 kph</td><td>4.3 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>5 kph</td><td>6.1 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>5.8 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>1.4 kph</td>
     </tr>
 </table>
 
@@ -40,7 +40,7 @@ Sunny
 <table>
     <tr>
         <th>Date</th>
-        <td>25/07/2025</td><td>26/07/2025</td><td>27/07/2025</td>
+        <td>26/07/2025</td><td>27/07/2025</td><td>28/07/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -52,13 +52,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.5 -  38.1 °C</td><td>27.3 -  38 °C</td><td>27.4 -  38 °C</td>
+        <td>27.3 -  38 °C</td><td>27.4 -  38 °C</td><td>27.2 -  36.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.5 kph</td><td>9.4 kph</td><td>15.5 kph</td>
+        <td>9.4 kph</td><td>15.5 kph</td><td>15.5 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-07-25T14:35:07Z*
+*Updated at: 2025-07-25T15:34:27Z*
