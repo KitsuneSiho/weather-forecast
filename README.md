@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29.5 °C</td><td>29.1 °C</td><td>28.6 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.4 °C</td><td>27.1 °C</td><td>28.3 °C</td><td>29.9 °C</td><td>31.5 °C</td><td>32.9 °C</td><td>34.2 °C</td><td>35.6 °C</td><td>36.5 °C</td><td>36.9 °C</td><td>37 °C</td><td>36.4 °C</td><td>35.4 °C</td><td>34 °C</td><td>32.6 °C</td><td>29.2 °C</td><td>30.5 °C</td><td>30 °C</td><td>29.5 °C</td>
+        <td>29.5 °C</td><td>29.1 °C</td><td>28.6 °C</td><td>28.2 °C</td><td>27.9 °C</td><td>27.4 °C</td><td>27.1 °C</td><td>28.3 °C</td><td>29.9 °C</td><td>31.5 °C</td><td>32.9 °C</td><td>34.2 °C</td><td>35.6 °C</td><td>36.5 °C</td><td>36.9 °C</td><td>37 °C</td><td>36.4 °C</td><td>35.4 °C</td><td>34 °C</td><td>32.6 °C</td><td>31.2 °C</td><td>30.5 °C</td><td>28.1 °C</td><td>29.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Sunny
 </table>
 
 
-*Updated at: 2025-07-28T11:29:47Z*
+*Updated at: 2025-07-28T13:05:20Z*
