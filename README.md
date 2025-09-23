@@ -21,11 +21,11 @@ Heavy rain
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.8 °C</td><td>20.5 °C</td><td>19.9 °C</td><td>19.5 °C</td><td>19.2 °C</td><td>18.7 °C</td><td>18.3 °C</td><td>20.2 °C</td><td>19.7 °C</td><td>20.9 °C</td><td>21.9 °C</td><td>20.1 °C</td><td>19.5 °C</td><td>19.5 °C</td><td>19.7 °C</td><td>20.2 °C</td><td>20.3 °C</td><td>20.4 °C</td><td>20.6 °C</td><td>20.5 °C</td><td>20.6 °C</td><td>20.6 °C</td><td>20.6 °C</td><td>20.5 °C</td>
+        <td>20.8 °C</td><td>20.5 °C</td><td>19.9 °C</td><td>19.5 °C</td><td>19.2 °C</td><td>18.7 °C</td><td>18.3 °C</td><td>18.5 °C</td><td>23.1 °C</td><td>20.9 °C</td><td>21.9 °C</td><td>20.1 °C</td><td>19.5 °C</td><td>19.5 °C</td><td>19.7 °C</td><td>20.2 °C</td><td>20.3 °C</td><td>20.4 °C</td><td>20.6 °C</td><td>20.5 °C</td><td>20.6 °C</td><td>20.6 °C</td><td>20.6 °C</td><td>20.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Heavy rain
 </table>
 
 
-*Updated at: 2025-09-23T22:29:52Z*
+*Updated at: 2025-09-23T23:25:18Z*
