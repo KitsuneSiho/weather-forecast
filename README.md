@@ -25,7 +25,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.1 °C</td><td>7.9 °C</td><td>6.9 °C</td><td>5.9 °C</td><td>5.1 °C</td><td>4.4 °C</td><td>3.7 °C</td><td>3.2 °C</td><td>2.7 °C</td><td>2.6 °C</td><td>2.9 °C</td><td>4.1 °C</td><td>4 °C</td><td>4.4 °C</td><td>4.6 °C</td><td>4.7 °C</td><td>4.4 °C</td><td>3.6 °C</td><td>3 °C</td><td>2.6 °C</td><td>2 °C</td><td>1.7 °C</td><td>1.7 °C</td><td>1.6 °C</td>
+        <td>9.1 °C</td><td>7.9 °C</td><td>6.9 °C</td><td>5.9 °C</td><td>5.1 °C</td><td>4.4 °C</td><td>3.7 °C</td><td>3.2 °C</td><td>2.7 °C</td><td>2.6 °C</td><td>2.9 °C</td><td>3.3 °C</td><td>4 °C</td><td>4.4 °C</td><td>4.6 °C</td><td>4.7 °C</td><td>4.4 °C</td><td>3.6 °C</td><td>3 °C</td><td>2.6 °C</td><td>2 °C</td><td>1.7 °C</td><td>1.7 °C</td><td>1.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2025-11-17T02:16:22Z*
+*Updated at: 2025-11-17T03:54:39Z*
