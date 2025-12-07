@@ -25,7 +25,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>3 °C</td><td>2.8 °C</td><td>2.7 °C</td><td>2.5 °C</td><td>2.3 °C</td><td>2.1 °C</td><td>2 °C</td><td>1.8 °C</td><td>1.7 °C</td><td>2.8 °C</td><td>4.7 °C</td><td>6.3 °C</td><td>7.7 °C</td><td>13.3 °C</td><td>10.2 °C</td><td>10.9 °C</td><td>10.3 °C</td><td>9.1 °C</td><td>8.7 °C</td><td>8.1 °C</td><td>7.8 °C</td><td>7.3 °C</td><td>6.4 °C</td><td>5.7 °C</td>
+        <td>3 °C</td><td>2.8 °C</td><td>2.7 °C</td><td>2.5 °C</td><td>2.3 °C</td><td>2.1 °C</td><td>2 °C</td><td>1.8 °C</td><td>1.7 °C</td><td>2.8 °C</td><td>4.7 °C</td><td>6.3 °C</td><td>7.7 °C</td><td>8.9 °C</td><td>13.4 °C</td><td>10.9 °C</td><td>10.3 °C</td><td>9.1 °C</td><td>8.7 °C</td><td>8.1 °C</td><td>7.8 °C</td><td>7.3 °C</td><td>6.4 °C</td><td>5.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2025-12-07T04:43:57Z*
+*Updated at: 2025-12-07T05:31:10Z*
