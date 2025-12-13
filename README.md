@@ -25,7 +25,7 @@ Light freezing rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-0.1 °C</td><td>-1.9 °C</td><td>-0.1 °C</td><td>-0.4 °C</td><td>-0.6 °C</td><td>-0.6 °C</td><td>-0.5 °C</td><td>-0.8 °C</td><td>-0.7 °C</td><td>-0.3 °C</td><td>0 °C</td><td>0.5 °C</td><td>1.1 °C</td><td>1.6 °C</td><td>2.1 °C</td><td>2.3 °C</td><td>2.3 °C</td><td>1.7 °C</td><td>1.1 °C</td><td>0.8 °C</td><td>0.5 °C</td><td>0.3 °C</td><td>0.1 °C</td><td>-0 °C</td>
+        <td>-0.1 °C</td><td>-2 °C</td><td>-0.1 °C</td><td>-0.4 °C</td><td>-0.6 °C</td><td>-0.6 °C</td><td>-0.5 °C</td><td>-0.8 °C</td><td>-0.7 °C</td><td>-0.3 °C</td><td>0 °C</td><td>0.5 °C</td><td>1.1 °C</td><td>1.6 °C</td><td>2.1 °C</td><td>2.3 °C</td><td>2.3 °C</td><td>1.7 °C</td><td>1.1 °C</td><td>0.8 °C</td><td>0.5 °C</td><td>0.3 °C</td><td>0.1 °C</td><td>-0 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Light freezing rain
 </table>
 
 
-*Updated at: 2025-12-13T15:29:36Z*
+*Updated at: 2025-12-13T16:37:03Z*
