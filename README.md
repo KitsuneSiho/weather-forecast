@@ -25,7 +25,7 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>2.9 °C</td><td>3 °C</td><td>3 °C</td><td>3.1 °C</td><td>3.1 °C</td><td>3.3 °C</td><td>3.3 °C</td><td>3.4 °C</td><td>3.4 °C</td><td>3.8 °C</td><td>4.2 °C</td><td>4.6 °C</td><td>5.1 °C</td><td>5.5 °C</td><td>5.9 °C</td><td>6.7 °C</td><td>6.7 °C</td><td>6.1 °C</td><td>5.5 °C</td><td>5.3 °C</td><td>5.1 °C</td><td>5 °C</td><td>5.4 °C</td><td>4.9 °C</td>
+        <td>2.9 °C</td><td>3 °C</td><td>3 °C</td><td>3.1 °C</td><td>3.1 °C</td><td>3.3 °C</td><td>3.3 °C</td><td>3.4 °C</td><td>3.4 °C</td><td>3.8 °C</td><td>4.2 °C</td><td>4.6 °C</td><td>5.1 °C</td><td>5.5 °C</td><td>5.9 °C</td><td>6.7 °C</td><td>6.7 °C</td><td>6.1 °C</td><td>5.5 °C</td><td>5.3 °C</td><td>5.1 °C</td><td>5 °C</td><td>5.1 °C</td><td>4.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Overcast
 </table>
 
 
-*Updated at: 2025-12-16T13:05:47Z*
+*Updated at: 2025-12-16T13:49:27Z*
