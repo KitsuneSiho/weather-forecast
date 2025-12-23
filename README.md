@@ -21,11 +21,11 @@ Moderate rain
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast</td><td width="200px">Overcast </td><td width="200px">Light drizzle</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light drizzle</td><td width="200px">Mist</td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Light drizzle</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light drizzle</td><td width="200px">Mist</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>0.2 °C</td><td>0 °C</td><td>-0 °C</td><td>-0 °C</td><td>-0.1 °C</td><td>-0.1 °C</td><td>-0 °C</td><td>-0.1 °C</td><td>0.5 °C</td><td>1.1 °C</td><td>2 °C</td><td>5.3 °C</td><td>3.4 °C</td><td>2.7 °C</td><td>1.6 °C</td><td>0.8 °C</td><td>1.1 °C</td><td>1.3 °C</td><td>1.5 °C</td><td>1.6 °C</td><td>1.7 °C</td><td>1.8 °C</td><td>2 °C</td><td>2.1 °C</td>
+        <td>0.2 °C</td><td>0 °C</td><td>-0 °C</td><td>-0 °C</td><td>-0.1 °C</td><td>-0.1 °C</td><td>-0 °C</td><td>-0.1 °C</td><td>0.5 °C</td><td>1.1 °C</td><td>2 °C</td><td>2.9 °C</td><td>3.4 °C</td><td>2.7 °C</td><td>1.6 °C</td><td>0.8 °C</td><td>1.1 °C</td><td>1.3 °C</td><td>1.5 °C</td><td>1.6 °C</td><td>1.7 °C</td><td>1.8 °C</td><td>2 °C</td><td>2.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Moderate rain
 </table>
 
 
-*Updated at: 2025-12-23T02:23:50Z*
+*Updated at: 2025-12-23T04:06:07Z*
