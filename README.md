@@ -3,9 +3,9 @@
 
 `Seoul, South Korea - 28/12/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/311.png"/>
 
-Fog
+Light freezing rain
 
 </div>
 
@@ -17,19 +17,19 @@ Fog
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/317.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/317.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Light freezing rain</td><td width="200px">Light snow</td><td width="200px">Light snow</td><td width="200px">Moderate snow</td><td width="200px">Light snow</td><td width="200px">Light freezing rain</td><td width="200px">Light sleet</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Light rain</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td>
+        <td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Light sleet</td><td width="200px">Light freezing rain</td><td width="200px">Mist</td><td width="200px">Partly cloudy</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Mist</td><td width="200px">Mist</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-1.7 °C</td><td>-1.7 °C</td><td>-1.4 °C</td><td>-1.2 °C</td><td>-1.1 °C</td><td>-1.1 °C</td><td>-0.9 °C</td><td>-0.7 °C</td><td>-0.8 °C</td><td>-0.4 °C</td><td>0.3 °C</td><td>0.3 °C</td><td>0.5 °C</td><td>0.5 °C</td><td>0.6 °C</td><td>0.6 °C</td><td>0.4 °C</td><td>6.1 °C</td><td>0.4 °C</td><td>0.3 °C</td><td>0.4 °C</td><td>0.4 °C</td><td>0.3 °C</td><td>0.6 °C</td>
+        <td>-1.8 °C</td><td>-1.8 °C</td><td>-1.8 °C</td><td>-1.7 °C</td><td>-1.5 °C</td><td>-1.4 °C</td><td>-0.9 °C</td><td>-0.8 °C</td><td>-0.7 °C</td><td>-0.1 °C</td><td>0.7 °C</td><td>1.4 °C</td><td>1.5 °C</td><td>1.8 °C</td><td>2 °C</td><td>1.7 °C</td><td>0.9 °C</td><td>0.6 °C</td><td>6.1 °C</td><td>0.4 °C</td><td>0.2 °C</td><td>0.4 °C</td><td>0.6 °C</td><td>0.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.3 kph</td><td>4.3 kph</td><td>4 kph</td><td>4 kph</td><td>4 kph</td><td>4 kph</td><td>4.3 kph</td><td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5 kph</td><td>4 kph</td><td>5.4 kph</td>
+        <td>4.3 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5 kph</td><td>5 kph</td><td>5 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td>
     </tr>
 </table>
 
@@ -44,21 +44,21 @@ Fog
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Fog</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
+        <td width="200px">Light freezing rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-1.7 -  0.6 °C</td><td>-0.2 -  6.8 °C</td><td>-3.8 -  2.2 °C</td>
+        <td>-1.8 -  2 °C</td><td>-0.4 -  6.7 °C</td><td>-5.5 -  2.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.8 kph</td><td>12.6 kph</td><td>21.2 kph</td>
+        <td>5.8 kph</td><td>15.8 kph</td><td>23 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-12-28T08:39:55Z*
+*Updated at: 2025-12-28T09:31:49Z*
