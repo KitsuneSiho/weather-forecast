@@ -25,7 +25,7 @@ Fog
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-1.7 °C</td><td>-1.7 °C</td><td>-1.4 °C</td><td>-1.2 °C</td><td>-1.1 °C</td><td>-1.1 °C</td><td>-0.9 °C</td><td>-0.7 °C</td><td>-0.8 °C</td><td>-0.4 °C</td><td>0.3 °C</td><td>0.3 °C</td><td>0.5 °C</td><td>5.1 °C</td><td>0.6 °C</td><td>0.6 °C</td><td>0.4 °C</td><td>0.3 °C</td><td>0.4 °C</td><td>0.3 °C</td><td>0.4 °C</td><td>0.4 °C</td><td>0.3 °C</td><td>0.6 °C</td>
+        <td>-1.7 °C</td><td>-1.7 °C</td><td>-1.4 °C</td><td>-1.2 °C</td><td>-1.1 °C</td><td>-1.1 °C</td><td>-0.9 °C</td><td>-0.7 °C</td><td>-0.8 °C</td><td>-0.4 °C</td><td>0.3 °C</td><td>0.3 °C</td><td>0.5 °C</td><td>6.2 °C</td><td>0.6 °C</td><td>0.6 °C</td><td>0.4 °C</td><td>0.3 °C</td><td>0.4 °C</td><td>0.3 °C</td><td>0.4 °C</td><td>0.4 °C</td><td>0.3 °C</td><td>0.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Fog
 </table>
 
 
-*Updated at: 2025-12-28T04:15:23Z*
+*Updated at: 2025-12-28T04:55:27Z*
