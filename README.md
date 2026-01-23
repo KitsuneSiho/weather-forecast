@@ -25,7 +25,7 @@ Light freezing rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-8.7 °C</td><td>-8.7 °C</td><td>-8.6 °C</td><td>-8.4 °C</td><td>-8.3 °C</td><td>-8.2 °C</td><td>-8.3 °C</td><td>-8.2 °C</td><td>-8.2 °C</td><td>-7.6 °C</td><td>-6.5 °C</td><td>-5.4 °C</td><td>-4.4 °C</td><td>-2.8 °C</td><td>-2.8 °C</td><td>-2.2 °C</td><td>-1.9 °C</td><td>-2.1 °C</td><td>-2.5 °C</td><td>-2.5 °C</td><td>-3.1 °C</td><td>-2.9 °C</td><td>-3 °C</td><td>-3.2 °C</td>
+        <td>-8.7 °C</td><td>-8.7 °C</td><td>-8.6 °C</td><td>-8.4 °C</td><td>-8.3 °C</td><td>-8.2 °C</td><td>-8.3 °C</td><td>-8.2 °C</td><td>-8.2 °C</td><td>-7.6 °C</td><td>-6.5 °C</td><td>-5.4 °C</td><td>-4.4 °C</td><td>-0.9 °C</td><td>-2.8 °C</td><td>-2.2 °C</td><td>-1.9 °C</td><td>-2.1 °C</td><td>-2.5 °C</td><td>-2.5 °C</td><td>-3.1 °C</td><td>-2.9 °C</td><td>-3 °C</td><td>-3.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Light freezing rain
 </table>
 
 
-*Updated at: 2026-01-23T04:11:46Z*
+*Updated at: 2026-01-23T04:53:55Z*
