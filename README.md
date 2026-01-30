@@ -25,7 +25,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-6.7 °C</td><td>-6.8 °C</td><td>-7.1 °C</td><td>-7.4 °C</td><td>-7.8 °C</td><td>-8 °C</td><td>-8.3 °C</td><td>-8.4 °C</td><td>-8.5 °C</td><td>-8.2 °C</td><td>-7.5 °C</td><td>-6.6 °C</td><td>-5.9 °C</td><td>-3.9 °C</td><td>-4.3 °C</td><td>-3.8 °C</td><td>-3.6 °C</td><td>-3.7 °C</td><td>-4.1 °C</td><td>-4.3 °C</td><td>-4.5 °C</td><td>-4.9 °C</td><td>-5.2 °C</td><td>-5.5 °C</td>
+        <td>-6.7 °C</td><td>-6.8 °C</td><td>-7.1 °C</td><td>-7.4 °C</td><td>-7.8 °C</td><td>-8 °C</td><td>-8.3 °C</td><td>-8.4 °C</td><td>-8.5 °C</td><td>-8.2 °C</td><td>-7.5 °C</td><td>-6.6 °C</td><td>-5.9 °C</td><td>-5 °C</td><td>-2.7 °C</td><td>-3.8 °C</td><td>-3.6 °C</td><td>-3.7 °C</td><td>-4.1 °C</td><td>-4.3 °C</td><td>-4.5 °C</td><td>-4.9 °C</td><td>-5.2 °C</td><td>-5.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2026-01-30T04:50:20Z*
+*Updated at: 2026-01-30T06:00:14Z*
