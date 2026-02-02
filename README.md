@@ -25,7 +25,7 @@ Moderate or heavy snow showers
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-1.7 °C</td><td>-1.7 °C</td><td>-1.5 °C</td><td>-1.5 °C</td><td>-2 °C</td><td>-2.2 °C</td><td>-2.9 °C</td><td>-3.5 °C</td><td>-4.1 °C</td><td>-4 °C</td><td>-3.5 °C</td><td>-2.9 °C</td><td>-2.4 °C</td><td>-1.8 °C</td><td>-1.4 °C</td><td>-1.1 °C</td><td>-1 °C</td><td>-1.4 °C</td><td>-2.4 °C</td><td>-1.9 °C</td><td>-3.4 °C</td><td>-3.7 °C</td><td>-4.1 °C</td><td>-4.3 °C</td>
+        <td>-1.7 °C</td><td>-1.7 °C</td><td>-1.5 °C</td><td>-1.5 °C</td><td>-2 °C</td><td>-2.2 °C</td><td>-2.9 °C</td><td>-3.5 °C</td><td>-4.1 °C</td><td>-4 °C</td><td>-3.5 °C</td><td>-2.9 °C</td><td>-2.4 °C</td><td>-1.8 °C</td><td>-1.4 °C</td><td>-1.1 °C</td><td>-1 °C</td><td>-1.4 °C</td><td>-2.4 °C</td><td>-2.8 °C</td><td>-2 °C</td><td>-3.7 °C</td><td>-4.1 °C</td><td>-4.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Moderate or heavy snow showers
 </table>
 
 
-*Updated at: 2026-02-02T10:05:24Z*
+*Updated at: 2026-02-02T11:04:45Z*
