@@ -21,11 +21,11 @@ Overcast
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-2 °C</td><td>-2.2 °C</td><td>-2.3 °C</td><td>-2.5 °C</td><td>-2.8 °C</td><td>-2.9 °C</td><td>-2.8 °C</td><td>-2.3 °C</td><td>-2 °C</td><td>-1.5 °C</td><td>-0.9 °C</td><td>-0.4 °C</td><td>0.4 °C</td><td>1.3 °C</td><td>2.1 °C</td><td>2.6 °C</td><td>2.5 °C</td><td>1.6 °C</td><td>0.4 °C</td><td>-0 °C</td><td>1.2 °C</td><td>-0.1 °C</td><td>-0.2 °C</td><td>-0.3 °C</td>
+        <td>-2 °C</td><td>-2.2 °C</td><td>-2.3 °C</td><td>-2.5 °C</td><td>-2.8 °C</td><td>-2.9 °C</td><td>-2.8 °C</td><td>-2.3 °C</td><td>-2 °C</td><td>-1.5 °C</td><td>-0.9 °C</td><td>-0.4 °C</td><td>0.4 °C</td><td>1.3 °C</td><td>2.1 °C</td><td>2.6 °C</td><td>2.5 °C</td><td>1.6 °C</td><td>0.4 °C</td><td>-0 °C</td><td>-0.1 °C</td><td>-0.1 °C</td><td>0.3 °C</td><td>-0.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Overcast
 </table>
 
 
-*Updated at: 2026-02-04T11:46:49Z*
+*Updated at: 2026-02-04T13:34:42Z*
