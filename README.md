@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>1.3 °C</td><td>-1.8 °C</td><td>0.6 °C</td><td>0.2 °C</td><td>0.1 °C</td><td>-0.3 °C</td><td>-0.4 °C</td><td>-0.5 °C</td><td>-0.4 °C</td><td>0.4 °C</td><td>1.3 °C</td><td>2.5 °C</td><td>3.7 °C</td><td>4.6 °C</td><td>5.3 °C</td><td>5.3 °C</td><td>4.9 °C</td><td>4.4 °C</td><td>3.6 °C</td><td>3 °C</td><td>2.5 °C</td><td>2.3 °C</td><td>2 °C</td><td>1.8 °C</td>
+        <td>1.3 °C</td><td>0.9 °C</td><td>-2.8 °C</td><td>0.2 °C</td><td>0.1 °C</td><td>-0.3 °C</td><td>-0.4 °C</td><td>-0.5 °C</td><td>-0.4 °C</td><td>0.4 °C</td><td>1.3 °C</td><td>2.5 °C</td><td>3.7 °C</td><td>4.6 °C</td><td>5.3 °C</td><td>5.3 °C</td><td>4.9 °C</td><td>4.4 °C</td><td>3.6 °C</td><td>3 °C</td><td>2.5 °C</td><td>2.3 °C</td><td>2 °C</td><td>1.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.9 kph</td><td>3.6 kph</td><td>4 kph</td><td>4 kph</td><td>4 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.6 kph</td><td>9.7 kph</td><td>13.3 kph</td><td>15.1 kph</td><td>16.2 kph</td><td>15.8 kph</td><td>15.5 kph</td><td>14 kph</td><td>13 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>9.7 kph</td>
+        <td>2.9 kph</td><td>2.5 kph</td><td>4 kph</td><td>4 kph</td><td>4 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.6 kph</td><td>9.7 kph</td><td>13.3 kph</td><td>15.1 kph</td><td>16.2 kph</td><td>15.8 kph</td><td>15.5 kph</td><td>14 kph</td><td>13 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>9.7 kph</td>
     </tr>
 </table>
 
@@ -61,4 +61,4 @@ Sunny
 </table>
 
 
-*Updated at: 2026-02-16T15:56:08Z*
+*Updated at: 2026-02-16T17:01:10Z*
