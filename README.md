@@ -25,7 +25,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>7.4 °C</td><td>8.4 °C</td><td>6.8 °C</td><td>6.6 °C</td><td>6.5 °C</td><td>6.2 °C</td><td>5.8 °C</td><td>5.7 °C</td><td>5.6 °C</td><td>5.6 °C</td><td>6 °C</td><td>6.3 °C</td><td>5.4 °C</td><td>5.6 °C</td><td>5.2 °C</td><td>5 °C</td><td>4.8 °C</td><td>4.6 °C</td><td>4.2 °C</td><td>3.6 °C</td><td>3.2 °C</td><td>2.8 °C</td><td>2.7 °C</td><td>2.7 °C</td>
+        <td>7.4 °C</td><td>8.2 °C</td><td>6.8 °C</td><td>6.6 °C</td><td>6.5 °C</td><td>6.2 °C</td><td>5.8 °C</td><td>5.7 °C</td><td>5.6 °C</td><td>5.6 °C</td><td>6 °C</td><td>6.3 °C</td><td>5.4 °C</td><td>5.6 °C</td><td>5.2 °C</td><td>5 °C</td><td>4.8 °C</td><td>4.6 °C</td><td>4.2 °C</td><td>3.6 °C</td><td>3.2 °C</td><td>2.8 °C</td><td>2.7 °C</td><td>2.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Moderate rain
 </table>
 
 
-*Updated at: 2026-03-01T15:35:35Z*
+*Updated at: 2026-03-01T16:44:01Z*
