@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>5.1 °C</td><td>4.8 °C</td><td>4.5 °C</td><td>4.1 °C</td><td>3.8 °C</td><td>3.5 °C</td><td>3.2 °C</td><td>2.9 °C</td><td>3.7 °C</td><td>5 °C</td><td>6.6 °C</td><td>8.1 °C</td><td>9.5 °C</td><td>13 °C</td><td>11.3 °C</td><td>11.8 °C</td><td>11.9 °C</td><td>11.4 °C</td><td>10.4 °C</td><td>9.4 °C</td><td>8.2 °C</td><td>7.3 °C</td><td>6.5 °C</td><td>5.9 °C</td>
+        <td>5.1 °C</td><td>4.8 °C</td><td>4.5 °C</td><td>4.1 °C</td><td>3.8 °C</td><td>3.5 °C</td><td>3.2 °C</td><td>2.9 °C</td><td>3.7 °C</td><td>5 °C</td><td>6.6 °C</td><td>8.1 °C</td><td>9.5 °C</td><td>10.6 °C</td><td>11.3 °C</td><td>13.1 °C</td><td>11.9 °C</td><td>11.4 °C</td><td>10.4 °C</td><td>9.4 °C</td><td>8.2 °C</td><td>7.3 °C</td><td>6.5 °C</td><td>5.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Sunny
 </table>
 
 
-*Updated at: 2026-03-12T04:56:36Z*
+*Updated at: 2026-03-12T06:05:08Z*
