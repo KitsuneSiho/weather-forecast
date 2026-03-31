@@ -21,11 +21,11 @@ Moderate rain
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light drizzle</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light rain</td><td width="200px">Light drizzle</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.4 °C</td><td>13 °C</td><td>12.3 °C</td><td>12.1 °C</td><td>11.6 °C</td><td>11.1 °C</td><td>10.7 °C</td><td>10.9 °C</td><td>11.3 °C</td><td>12.7 °C</td><td>13.7 °C</td><td>15.3 °C</td><td>15.1 °C</td><td>17.5 °C</td><td>17.9 °C</td><td>18.1 °C</td><td>17.7 °C</td><td>17.2 °C</td><td>16.5 °C</td><td>15.9 °C</td><td>15.4 °C</td><td>15.1 °C</td><td>14.9 °C</td><td>14.4 °C</td>
+        <td>13.4 °C</td><td>13 °C</td><td>12.3 °C</td><td>12.1 °C</td><td>11.6 °C</td><td>11.1 °C</td><td>10.7 °C</td><td>10.9 °C</td><td>11.3 °C</td><td>12.7 °C</td><td>13.7 °C</td><td>15.3 °C</td><td>16.5 °C</td><td>17.5 °C</td><td>17.3 °C</td><td>18.1 °C</td><td>17.7 °C</td><td>17.2 °C</td><td>16.5 °C</td><td>15.9 °C</td><td>15.4 °C</td><td>15.1 °C</td><td>14.9 °C</td><td>14.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Moderate rain
 </table>
 
 
-*Updated at: 2026-03-31T03:28:26Z*
+*Updated at: 2026-03-31T05:52:09Z*
