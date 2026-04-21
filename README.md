@@ -25,7 +25,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>12.1 °C</td><td>12 °C</td><td>11.9 °C</td><td>11.8 °C</td><td>11.8 °C</td><td>11.8 °C</td><td>11.8 °C</td><td>11 °C</td><td>12.7 °C</td><td>13.6 °C</td><td>14.3 °C</td><td>15.5 °C</td><td>17 °C</td><td>17.8 °C</td><td>18.2 °C</td><td>18.7 °C</td><td>18.7 °C</td><td>18.1 °C</td><td>17 °C</td><td>15.6 °C</td><td>14.9 °C</td><td>14.6 °C</td><td>14.3 °C</td><td>14.1 °C</td>
+        <td>12.1 °C</td><td>12 °C</td><td>11.9 °C</td><td>11.8 °C</td><td>11.8 °C</td><td>11.8 °C</td><td>11.8 °C</td><td>12.2 °C</td><td>12.3 °C</td><td>13.6 °C</td><td>14.3 °C</td><td>15.5 °C</td><td>17 °C</td><td>17.8 °C</td><td>18.2 °C</td><td>18.7 °C</td><td>18.7 °C</td><td>18.1 °C</td><td>17 °C</td><td>15.6 °C</td><td>14.9 °C</td><td>14.6 °C</td><td>14.3 °C</td><td>14.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2026-04-21T22:57:23Z*
+*Updated at: 2026-04-21T23:50:45Z*
