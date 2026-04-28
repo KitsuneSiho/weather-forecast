@@ -21,11 +21,11 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.9 °C</td><td>13.5 °C</td><td>13.5 °C</td><td>13.1 °C</td><td>12.6 °C</td><td>11.6 °C</td><td>11.6 °C</td><td>11.8 °C</td><td>11.6 °C</td><td>12 °C</td><td>12.9 °C</td><td>13 °C</td><td>12.7 °C</td><td>12.8 °C</td><td>14.3 °C</td><td>15.6 °C</td><td>15.4 °C</td><td>15.2 °C</td><td>15.3 °C</td><td>13 °C</td><td>12.6 °C</td><td>12.4 °C</td><td>12.2 °C</td><td>11.8 °C</td>
+        <td>13.9 °C</td><td>13.5 °C</td><td>13.5 °C</td><td>13.1 °C</td><td>12.6 °C</td><td>11.6 °C</td><td>11.6 °C</td><td>11.8 °C</td><td>11.6 °C</td><td>12 °C</td><td>12.9 °C</td><td>13 °C</td><td>12.7 °C</td><td>12.8 °C</td><td>14.3 °C</td><td>15.6 °C</td><td>15.4 °C</td><td>15.2 °C</td><td>14.1 °C</td><td>13 °C</td><td>13.2 °C</td><td>12.4 °C</td><td>12.2 °C</td><td>11.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2026-04-28T09:33:05Z*
+*Updated at: 2026-04-28T12:00:57Z*
