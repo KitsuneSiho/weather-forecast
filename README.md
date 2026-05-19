@@ -25,7 +25,7 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.7 °C</td><td>21.3 °C</td><td>20.9 °C</td><td>20.5 °C</td><td>20.3 °C</td><td>20.1 °C</td><td>19.9 °C</td><td>20.1 °C</td><td>20.2 °C</td><td>20.3 °C</td><td>19.2 °C</td><td>18.4 °C</td><td>17.5 °C</td><td>16.7 °C</td><td>16 °C</td><td>15.7 °C</td><td>15.5 °C</td><td>15.4 °C</td><td>15.6 °C</td><td>15.5 °C</td><td>15.4 °C</td><td>15.4 °C</td><td>15.4 °C</td><td>15.2 °C</td>
+        <td>21.7 °C</td><td>21.4 °C</td><td>20.9 °C</td><td>20.5 °C</td><td>20.3 °C</td><td>20.1 °C</td><td>19.9 °C</td><td>20.1 °C</td><td>20.2 °C</td><td>20.3 °C</td><td>19.2 °C</td><td>18.4 °C</td><td>17.5 °C</td><td>16.7 °C</td><td>16 °C</td><td>15.7 °C</td><td>15.5 °C</td><td>15.4 °C</td><td>15.6 °C</td><td>15.5 °C</td><td>15.4 °C</td><td>15.4 °C</td><td>15.4 °C</td><td>15.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Heavy rain
 </table>
 
 
-*Updated at: 2026-05-19T16:30:20Z*
+*Updated at: 2026-05-19T19:16:07Z*
