@@ -44,21 +44,21 @@ Thundery outbreaks in nearby
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Thundery outbreaks in nearby</td><td width="200px">Light rain shower</td><td width="200px">Sunny</td>
+        <td width="200px">Thundery outbreaks in nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.2 -  32.6 °C</td><td>25.4 -  30.8 °C</td><td>24.7 -  32.6 °C</td>
+        <td>25.2 -  32.7 °C</td><td>25.5 -  31 °C</td><td>24.5 -  32.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>18.7 kph</td><td>17.6 kph</td><td>17.3 kph</td>
+        <td>18.7 kph</td><td>16.6 kph</td><td>17.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-07-26T21:09:58Z*
+*Updated at: 2026-07-26T22:10:48Z*
