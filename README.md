@@ -29,7 +29,7 @@ Smoky haze
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.5 kph</td><td>3.6 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>5 kph</td><td>9.4 kph</td><td>14 kph</td><td>14 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>9 kph</td><td>6.5 kph</td><td>4.3 kph</td><td>3.6 kph</td>
+        <td>2.5 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>5 kph</td><td>9.4 kph</td><td>14 kph</td><td>14 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>9 kph</td><td>6.5 kph</td><td>4.3 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -61,4 +61,4 @@ Smoky haze
 </table>
 
 
-*Updated at: 2026-08-02T15:17:23Z*
+*Updated at: 2026-08-02T17:12:47Z*
