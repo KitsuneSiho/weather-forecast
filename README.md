@@ -52,7 +52,7 @@ Smoky haze
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.4 -  25 °C</td><td>22.1 -  28.2 °C</td><td>23.8 -  25.8 °C</td>
+        <td>22.4 -  25 °C</td><td>22.3 -  28.2 °C</td><td>23.8 -  25.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Smoky haze
 </table>
 
 
-*Updated at: 2026-08-20T11:39:05Z*
+*Updated at: 2026-08-20T13:09:03Z*
