@@ -25,11 +25,11 @@ Mist
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.9 °C</td><td>22.9 °C</td><td>22.9 °C</td><td>22.9 °C</td><td>22.9 °C</td><td>22.8 °C</td><td>22.7 °C</td><td>22.8 °C</td><td>22.5 °C</td><td>22.3 °C</td><td>22.5 °C</td><td>22.8 °C</td><td>22.9 °C</td><td>23.1 °C</td><td>23.1 °C</td><td>23.2 °C</td><td>23.1 °C</td><td>23.1 °C</td><td>23.2 °C</td><td>23 °C</td><td>22.7 °C</td><td>22.7 °C</td><td>22.6 °C</td><td>22.6 °C</td>
+        <td>22.9 °C</td><td>22.9 °C</td><td>22.9 °C</td><td>22.9 °C</td><td>22.9 °C</td><td>22.8 °C</td><td>22.7 °C</td><td>22.8 °C</td><td>22.5 °C</td><td>22.3 °C</td><td>22.5 °C</td><td>22.8 °C</td><td>22.9 °C</td><td>23.1 °C</td><td>23.1 °C</td><td>23.2 °C</td><td>23.1 °C</td><td>23.1 °C</td><td>23.2 °C</td><td>23 °C</td><td>22.7 °C</td><td>22.7 °C</td><td>22.6 °C</td><td>23.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.9 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>4 kph</td><td>4 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>0.7 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>0.4 kph</td><td>2.9 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>4 kph</td><td>2.9 kph</td>
+        <td>2.9 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>4 kph</td><td>4 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>0.7 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>0.4 kph</td><td>2.9 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>4 kph</td><td>4.3 kph</td>
     </tr>
 </table>
 
@@ -44,15 +44,15 @@ Mist
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Mist</td><td width="200px">Overcast</td><td width="200px">Overcast</td>
+        <td width="200px">Mist</td><td width="200px">Light rain shower</td><td width="200px">Overcast</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.3 -  23.2 °C</td><td>22.1 -  29.1 °C</td><td>23.6 -  33.3 °C</td>
+        <td>22.3 -  23.5 °C</td><td>21.7 -  27.3 °C</td><td>23.6 -  33.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Mist
 </table>
 
 
-*Updated at: 2026-08-21T13:08:23Z*
+*Updated at: 2026-08-21T13:56:03Z*
