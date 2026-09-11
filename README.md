@@ -29,7 +29,7 @@ Overcast
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.7 kph</td><td>4 kph</td><td>4 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>10.4 kph</td><td>13.3 kph</td><td>13 kph</td><td>9.7 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>3.2 kph</td>
+        <td>4.7 kph</td><td>4 kph</td><td>4 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>10.4 kph</td><td>13.3 kph</td><td>13 kph</td><td>9.7 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -52,7 +52,7 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.4 -  27.1 °C</td><td>18.6 -  28.7 °C</td><td>21.3 -  25.9 °C</td>
+        <td>16.4 -  27.1 °C</td><td>17.9 -  28.7 °C</td><td>21.3 -  25.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,4 +61,4 @@ Overcast
 </table>
 
 
-*Updated at: 2026-09-11T09:38:35Z*
+*Updated at: 2026-09-11T14:24:19Z*
