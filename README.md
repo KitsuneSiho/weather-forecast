@@ -29,7 +29,7 @@ Overcast
     </tr>
     <tr>
         <th>Wind</th>
-        <td>1.1 kph</td><td>0.7 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>4.7 kph</td><td>7.9 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>15.1 kph</td><td>16.9 kph</td><td>17.6 kph</td><td>16.6 kph</td><td>13.7 kph</td><td>10.1 kph</td><td>6.8 kph</td><td>4.7 kph</td><td>3.6 kph</td>
+        <td>1.1 kph</td><td>0.7 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>4.7 kph</td><td>7.9 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>15.1 kph</td><td>16.9 kph</td><td>17.6 kph</td><td>16.6 kph</td><td>13.7 kph</td><td>10.1 kph</td><td>6.8 kph</td><td>4.7 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -61,4 +61,4 @@ Overcast
 </table>
 
 
-*Updated at: 2026-09-13T23:07:20Z*
+*Updated at: 2026-09-14T01:01:33Z*
