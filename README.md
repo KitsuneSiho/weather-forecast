@@ -25,11 +25,11 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.4 °C</td><td>12.2 °C</td><td>11.7 °C</td><td>8.7 °C</td><td>11.2 °C</td><td>11.1 °C</td><td>7.9 °C</td><td>10.7 °C</td><td>11.1 °C</td><td>9.7 °C</td><td>12.7 °C</td><td>13.4 °C</td><td>14.8 °C</td><td>15.6 °C</td><td>16.7 °C</td><td>17 °C</td><td>16.9 °C</td><td>16.2 °C</td><td>13.3 °C</td><td>14.9 °C</td><td>14.3 °C</td><td>11.3 °C</td><td>13.7 °C</td><td>13.3 °C</td>
+        <td>9.4 °C</td><td>12.2 °C</td><td>11.7 °C</td><td>8.7 °C</td><td>11.2 °C</td><td>11.1 °C</td><td>7.9 °C</td><td>10.7 °C</td><td>11.1 °C</td><td>9.7 °C</td><td>12.7 °C</td><td>13.4 °C</td><td>14.5 °C</td><td>15.1 °C</td><td>16.5 °C</td><td>16.7 °C</td><td>16.6 °C</td><td>15.9 °C</td><td>12.8 °C</td><td>14.7 °C</td><td>14 °C</td><td>11 °C</td><td>13.3 °C</td><td>13 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.3 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>6.1 kph</td><td>4.3 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>8.3 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>4 kph</td>
+        <td>4.3 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>5 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>5 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>5 kph</td><td>7.6 kph</td><td>11.2 kph</td><td>7.9 kph</td><td>4 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.7 kph</td>
     </tr>
 </table>
 
@@ -52,13 +52,13 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>7.9 -  17 °C</td><td>10 -  16.8 °C</td><td>4.9 -  11.8 °C</td>
+        <td>7.9 -  16.7 °C</td><td>9.6 -  16 °C</td><td>4.7 -  11.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.4 kph</td><td>21.6 kph</td><td>25.2 kph</td>
+        <td>11.2 kph</td><td>21.2 kph</td><td>25.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-11-04T06:09:46Z*
+*Updated at: 2026-11-04T14:26:16Z*
